@@ -1,0 +1,830 @@
+,id,age,sex,race,hispanic,household_size,household_tenure
+0,1,39,f,Total!!Population of one race!!White alone,1,4,Own
+1,2,56,m,Total!!Population of one race!!White alone,0,4,Own
+2,3,27,f,Total!!Population of one race!!White alone,0,1,Own
+3,4,70,m,Total!!Population of one race!!White alone,0,3,Rent
+4,5,32,m,Total!!Population of one race!!White alone,0,4,Own
+5,6,48,m,Total!!Population of one race!!White alone,1,1,Own
+6,7,36,f,Total!!Population of one race!!White alone,0,1,Own
+7,8,19,m,Total!!Population of one race!!White alone,1,3,Rent
+8,9,48,f,Total!!Population of one race!!White alone,1,2,Own
+9,10,15,f,Total!!Population of one race!!White alone,1,4,Own
+10,11,86,f,Total!!Population of one race!!White alone,0,3,Rent
+11,12,12,f,Total!!Population of one race!!White alone,0,4,Own
+12,13,19,m,Total!!Population of one race!!White alone,1,2,Own
+13,14,9,m,Total!!Population of one race!!White alone,1,2,Own
+14,15,79,m,Total!!Population of one race!!White alone,0,4,Rent
+15,16,43,f,Total!!Population of one race!!White alone,0,4,Own
+16,17,58,m,Total!!Population of one race!!White alone,1,4,Own
+17,18,34,f,Total!!Population of one race!!White alone,1,1,Own
+18,19,32,f,Total!!Population of one race!!White alone,1,2,Rent
+19,20,17,m,Total!!Population of one race!!White alone,1,2,Own
+20,21,60,f,Total!!Population of one race!!White alone,1,2,Rent
+21,22,13,m,Total!!Population of one race!!White alone,0,4,Rent
+22,23,19,m,Total!!Population of one race!!White alone,0,4,Own
+23,24,8,f,Total!!Population of one race!!White alone,1,4,Own
+24,25,48,m,Total!!Population of one race!!White alone,1,2,Own
+25,26,23,f,Total!!Population of one race!!White alone,1,4,Rent
+26,27,68,f,Total!!Population of one race!!White alone,1,4,Rent
+27,28,48,m,Total!!Population of one race!!White alone,0,4,Own
+28,29,19,m,Total!!Population of one race!!White alone,0,2,Rent
+29,30,12,m,Total!!Population of one race!!White alone,0,2,Own
+30,31,86,f,Total!!Population of one race!!White alone,1,2,Own
+31,32,32,f,Total!!Population of one race!!White alone,0,2,Own
+32,33,3,f,Total!!Population of one race!!White alone,0,1,Own
+33,34,36,f,Total!!Population of one race!!White alone,1,2,Own
+34,35,46,f,Total!!Population of one race!!White alone,1,2,Rent
+35,36,3,f,Total!!Population of one race!!White alone,1,1,Own
+36,37,68,m,Total!!Population of one race!!White alone,0,4,Own
+37,38,6,f,Total!!Population of one race!!White alone,0,2,Rent
+38,39,48,f,Total!!Population of one race!!White alone,0,2,Own
+39,40,84,f,Total!!Population of one race!!White alone,0,4,Rent
+40,41,59,f,Total!!Population of one race!!White alone,1,2,Rent
+41,42,37,m,Total!!Population of one race!!White alone,1,3,Rent
+42,43,11,m,Total!!Population of one race!!White alone,0,3,Rent
+43,44,19,m,Total!!Population of one race!!White alone,1,4,Own
+44,45,14,m,Total!!Population of one race!!White alone,1,3,Own
+45,46,37,f,Total!!Population of one race!!White alone,0,4,Own
+46,47,4,m,Total!!Population of one race!!White alone,0,4,Own
+47,48,39,f,Total!!Population of one race!!White alone,1,4,Own
+48,49,52,f,Total!!Population of one race!!White alone,1,3,Own
+49,50,62,m,Total!!Population of one race!!White alone,0,4,Own
+50,51,26,f,Total!!Population of one race!!White alone,0,4,Own
+51,52,64,f,Total!!Population of one race!!White alone,0,4,Rent
+52,53,24,m,Total!!Population of one race!!White alone,0,4,Own
+53,54,14,f,Total!!Population of one race!!White alone,1,4,Rent
+54,55,5,m,Total!!Population of one race!!White alone,1,4,Own
+55,56,70,m,Total!!Population of one race!!White alone,1,4,Rent
+56,57,12,m,Total!!Population of one race!!White alone,0,4,Own
+57,58,48,m,Total!!Population of one race!!White alone,1,4,Own
+58,59,57,f,Total!!Population of one race!!White alone,0,1,Own
+59,60,38,f,Total!!Population of one race!!White alone,1,4,Own
+60,61,46,m,Total!!Population of one race!!White alone,0,2,Own
+61,62,38,m,Total!!Population of one race!!White alone,0,1,Rent
+62,63,31,f,Total!!Population of one race!!White alone,1,4,Own
+63,64,38,m,Total!!Population of one race!!White alone,1,1,Own
+64,65,35,m,Total!!Population of one race!!White alone,1,3,Own
+65,66,52,f,Total!!Population of one race!!White alone,0,4,Rent
+66,67,51,m,Total!!Population of one race!!White alone,0,2,Own
+67,68,28,m,Total!!Population of one race!!White alone,1,4,Rent
+68,69,51,f,Total!!Population of one race!!White alone,0,3,Rent
+69,70,48,m,Total!!Population of one race!!White alone,1,4,Rent
+70,71,74,f,Total!!Population of one race!!White alone,1,2,Rent
+71,72,15,f,Total!!Population of one race!!White alone,0,2,Own
+72,73,87,m,Total!!Population of one race!!White alone,1,4,Rent
+73,74,46,m,Total!!Population of one race!!White alone,0,3,Own
+74,75,21,m,Total!!Population of one race!!White alone,0,2,Own
+75,76,49,f,Total!!Population of one race!!White alone,1,1,Own
+76,77,16,f,Total!!Population of one race!!White alone,1,3,Rent
+77,78,88,m,Total!!Population of one race!!White alone,1,3,Rent
+78,79,1,f,Total!!Population of one race!!White alone,1,4,Own
+79,80,51,f,Total!!Population of one race!!White alone,1,3,Rent
+80,81,61,f,Total!!Population of one race!!White alone,1,3,Own
+81,82,55,f,Total!!Population of one race!!White alone,1,4,Own
+82,83,34,m,Total!!Population of one race!!White alone,1,4,Own
+83,84,19,f,Total!!Population of one race!!White alone,1,2,Own
+84,85,29,f,Total!!Population of one race!!White alone,1,4,Rent
+85,86,57,f,Total!!Population of one race!!White alone,0,1,Own
+86,87,44,f,Total!!Population of one race!!White alone,1,4,Own
+87,88,27,m,Total!!Population of one race!!White alone,1,2,Own
+88,89,55,m,Total!!Population of one race!!White alone,0,2,Rent
+89,90,45,m,Total!!Population of one race!!White alone,0,4,Own
+90,91,4,f,Total!!Population of one race!!White alone,0,4,Rent
+91,92,31,f,Total!!Population of one race!!White alone,1,1,Own
+92,93,68,f,Total!!Population of one race!!White alone,1,2,Rent
+93,94,8,m,Total!!Population of one race!!White alone,1,4,Own
+94,95,50,f,Total!!Population of one race!!White alone,1,2,Own
+95,96,34,f,Total!!Population of one race!!White alone,0,2,Own
+96,97,29,f,Total!!Population of one race!!White alone,0,1,Rent
+97,98,20,f,Total!!Population of one race!!White alone,1,2,Own
+98,99,33,f,Total!!Population of one race!!White alone,1,3,Own
+99,100,45,m,Total!!Population of one race!!White alone,0,1,Own
+100,101,20,f,Total!!Population of one race!!White alone,0,4,Rent
+101,102,58,f,Total!!Population of one race!!White alone,1,3,Rent
+102,103,13,m,Total!!Population of one race!!White alone,1,3,Own
+103,104,15,m,Total!!Population of one race!!White alone,1,2,Rent
+104,105,48,m,Total!!Population of one race!!White alone,1,3,Own
+105,106,15,f,Total!!Population of one race!!White alone,0,4,Own
+106,107,25,m,Total!!Population of one race!!White alone,0,4,Rent
+107,108,10,f,Total!!Population of one race!!White alone,1,3,Own
+108,109,21,f,Total!!Population of one race!!White alone,0,2,Own
+109,110,12,f,Total!!Population of one race!!White alone,0,4,Own
+110,111,18,f,Total!!Population of one race!!White alone,1,3,Own
+111,112,13,m,Total!!Population of one race!!White alone,1,2,Rent
+112,113,16,f,Total!!Population of one race!!White alone,1,4,Own
+113,114,10,m,Total!!Population of one race!!White alone,1,2,Own
+114,115,25,m,Total!!Population of one race!!White alone,0,4,Rent
+115,116,15,f,Total!!Population of one race!!White alone,0,1,Own
+116,117,19,m,Total!!Population of one race!!White alone,1,3,Own
+117,118,28,m,Total!!Population of one race!!White alone,0,3,Rent
+118,119,29,f,Total!!Population of one race!!White alone,0,2,Rent
+119,120,38,m,Total!!Population of one race!!White alone,0,4,Rent
+120,121,63,f,Total!!Population of one race!!White alone,0,4,Rent
+121,122,5,f,Total!!Population of one race!!White alone,1,2,Rent
+122,123,58,m,Total!!Population of one race!!White alone,0,3,Own
+123,124,43,f,Total!!Population of one race!!White alone,1,3,Own
+124,125,44,f,Total!!Population of one race!!White alone,1,3,Own
+125,126,38,f,Total!!Population of one race!!White alone,1,4,Own
+126,127,54,f,Total!!Population of one race!!White alone,0,4,Rent
+127,128,21,m,Total!!Population of one race!!White alone,0,3,Rent
+128,129,37,m,Total!!Population of one race!!White alone,0,2,Own
+129,130,45,f,Total!!Population of one race!!White alone,0,4,Own
+130,131,22,m,Total!!Population of one race!!White alone,0,1,Own
+131,132,45,m,Total!!Population of one race!!White alone,1,3,Rent
+132,133,66,m,Total!!Population of one race!!White alone,0,4,Own
+133,134,22,m,Total!!Population of one race!!White alone,1,4,Own
+134,135,22,m,Total!!Population of one race!!White alone,1,3,Own
+135,136,12,f,Total!!Population of one race!!White alone,0,4,Own
+136,137,8,m,Total!!Population of one race!!White alone,1,4,Rent
+137,138,21,m,Total!!Population of one race!!White alone,1,3,Rent
+138,139,29,f,Total!!Population of one race!!White alone,1,4,Rent
+139,140,22,f,Total!!Population of one race!!White alone,0,4,Rent
+140,141,47,m,Total!!Population of one race!!White alone,0,1,Own
+141,142,27,m,Total!!Population of one race!!White alone,0,4,Own
+142,143,9,m,Total!!Population of one race!!White alone,1,4,Own
+143,144,20,f,Total!!Population of one race!!White alone,1,4,Own
+144,145,38,m,Total!!Population of one race!!White alone,1,3,Rent
+145,146,25,m,Total!!Population of one race!!White alone,0,3,Own
+146,147,48,f,Total!!Population of one race!!White alone,0,4,Own
+147,148,8,m,Total!!Population of one race!!White alone,1,4,Own
+148,149,25,m,Total!!Population of one race!!White alone,0,4,Own
+149,150,22,f,Total!!Population of one race!!White alone,0,2,Own
+150,151,29,m,Total!!Population of one race!!White alone,0,4,Rent
+151,152,49,m,Total!!Population of one race!!White alone,0,4,Rent
+152,153,26,m,Total!!Population of one race!!White alone,1,4,Own
+153,154,27,f,Total!!Population of one race!!White alone,0,2,Own
+154,155,12,f,Total!!Population of one race!!White alone,0,3,Rent
+155,156,47,m,Total!!Population of one race!!White alone,0,4,Own
+156,157,14,m,Total!!Population of one race!!White alone,1,4,Own
+157,158,13,m,Total!!Population of one race!!White alone,0,2,Own
+158,159,13,m,Total!!Population of one race!!White alone,1,1,Own
+159,160,80,f,Total!!Population of one race!!White alone,0,2,Own
+160,161,40,f,Total!!Population of one race!!White alone,1,4,Own
+161,162,28,f,Total!!Population of one race!!White alone,0,3,Own
+162,163,18,m,Total!!Population of one race!!White alone,1,3,Rent
+163,164,22,f,Total!!Population of one race!!White alone,1,3,Rent
+164,165,60,m,Total!!Population of one race!!White alone,1,2,Rent
+165,166,34,m,Total!!Population of one race!!White alone,1,4,Rent
+166,167,41,f,Total!!Population of one race!!White alone,0,3,Rent
+167,168,15,m,Total!!Population of one race!!White alone,1,2,Own
+168,169,71,m,Total!!Population of one race!!White alone,1,3,Rent
+169,170,61,m,Total!!Population of one race!!White alone,1,1,Own
+170,171,54,m,Total!!Population of one race!!White alone,1,1,Own
+171,172,31,m,Total!!Population of one race!!White alone,1,4,Rent
+172,173,44,f,Total!!Population of one race!!White alone,0,2,Own
+173,174,40,m,Total!!Population of one race!!White alone,0,2,Own
+174,175,24,m,Total!!Population of one race!!White alone,0,4,Own
+175,176,11,f,Total!!Population of one race!!White alone,0,4,Own
+176,177,4,f,Total!!Population of one race!!White alone,0,2,Rent
+177,178,14,m,Total!!Population of one race!!White alone,0,4,Own
+178,179,54,f,Total!!Population of one race!!White alone,1,4,Rent
+179,180,54,f,Total!!Population of one race!!White alone,0,4,Own
+180,181,29,m,Total!!Population of one race!!White alone,0,4,Rent
+181,182,68,m,Total!!Population of one race!!White alone,1,4,Own
+182,183,37,m,Total!!Population of one race!!White alone,0,3,Own
+183,184,40,m,Total!!Population of one race!!White alone,0,4,Own
+184,185,30,f,Total!!Population of one race!!White alone,1,1,Own
+185,186,12,m,Total!!Population of one race!!White alone,0,2,Rent
+186,187,32,f,Total!!Population of one race!!White alone,1,4,Own
+187,188,79,m,Total!!Population of one race!!White alone,1,1,Rent
+188,189,28,f,Total!!Population of one race!!White alone,1,4,Own
+189,190,55,f,Total!!Population of one race!!White alone,1,4,Own
+190,191,17,m,Total!!Population of one race!!White alone,1,4,Own
+191,192,4,f,Total!!Population of one race!!White alone,1,4,Rent
+192,193,22,m,Total!!Population of one race!!White alone,0,2,Rent
+193,194,56,f,Total!!Population of one race!!White alone,1,2,Rent
+194,195,51,f,Total!!Population of one race!!White alone,1,3,Rent
+195,196,46,f,Total!!Population of one race!!White alone,1,4,Rent
+196,197,43,f,Total!!Population of one race!!White alone,1,2,Own
+197,198,42,f,Total!!Population of one race!!White alone,1,4,Own
+198,199,60,m,Total!!Population of one race!!White alone,0,3,Rent
+199,200,3,f,Total!!Population of one race!!White alone,1,2,Rent
+200,201,49,f,Total!!Population of one race!!White alone,1,4,Own
+201,202,26,m,Total!!Population of one race!!White alone,1,3,Own
+202,203,69,m,Total!!Population of one race!!White alone,1,1,Rent
+203,204,64,m,Total!!Population of one race!!White alone,1,2,Own
+204,205,68,f,Total!!Population of one race!!White alone,0,3,Own
+205,206,79,m,Total!!Population of one race!!White alone,0,4,Rent
+206,207,1,f,Total!!Population of one race!!White alone,0,4,Own
+207,208,36,f,Total!!Population of one race!!White alone,1,4,Own
+208,209,45,m,Total!!Population of one race!!White alone,1,4,Own
+209,210,52,m,Total!!Population of one race!!White alone,0,2,Own
+210,211,63,f,Total!!Population of one race!!White alone,1,3,Rent
+211,212,56,m,Total!!Population of one race!!White alone,1,4,Own
+212,213,87,m,Total!!Population of one race!!White alone,0,2,Own
+213,214,37,m,Total!!Population of one race!!White alone,0,4,Rent
+214,215,72,f,Total!!Population of one race!!White alone,1,4,Own
+215,216,57,f,Total!!Population of one race!!White alone,0,2,Rent
+216,217,30,m,Total!!Population of one race!!White alone,0,4,Own
+217,218,71,m,Total!!Population of one race!!White alone,0,2,Own
+218,219,32,f,Total!!Population of one race!!White alone,0,4,Own
+219,220,38,f,Total!!Population of one race!!White alone,1,4,Own
+220,221,17,m,Total!!Population of one race!!White alone,0,4,Rent
+221,222,40,f,Total!!Population of one race!!White alone,1,2,Rent
+222,223,14,f,Total!!Population of one race!!White alone,1,4,Own
+223,224,2,f,Total!!Population of one race!!White alone,0,4,Own
+224,225,29,f,Total!!Population of one race!!White alone,1,4,Own
+225,226,24,m,Total!!Population of one race!!White alone,0,1,Rent
+226,227,34,m,Total!!Population of one race!!White alone,0,3,Own
+227,228,22,m,Total!!Population of one race!!White alone,0,4,Rent
+228,229,11,m,Total!!Population of one race!!White alone,1,3,Own
+229,230,67,f,Total!!Population of one race!!White alone,1,4,Own
+230,231,12,m,Total!!Population of one race!!White alone,0,4,Own
+231,232,11,f,Total!!Population of one race!!White alone,1,2,Own
+232,233,33,f,Total!!Population of one race!!White alone,1,3,Rent
+233,234,11,f,Total!!Population of one race!!White alone,1,2,Own
+234,235,26,f,Total!!Population of one race!!White alone,0,3,Rent
+235,236,40,f,Total!!Population of one race!!White alone,1,4,Rent
+236,237,37,m,Total!!Population of one race!!White alone,1,4,Own
+237,238,14,f,Total!!Population of one race!!White alone,1,3,Rent
+238,239,9,m,Total!!Population of one race!!White alone,0,4,Own
+239,240,73,f,Total!!Population of one race!!White alone,1,2,Own
+240,241,27,m,Total!!Population of one race!!White alone,0,2,Own
+241,242,49,m,Total!!Population of one race!!White alone,1,4,Own
+242,243,59,m,Total!!Population of one race!!White alone,1,4,Rent
+243,244,60,m,Total!!Population of one race!!White alone,0,2,Own
+244,245,68,m,Total!!Population of one race!!White alone,1,2,Rent
+245,246,36,m,Total!!Population of one race!!White alone,0,2,Rent
+246,247,27,m,Total!!Population of one race!!White alone,1,2,Rent
+247,248,19,m,Total!!Population of one race!!White alone,0,3,Rent
+248,249,11,m,Total!!Population of one race!!White alone,1,3,Own
+249,250,45,m,Total!!Population of one race!!White alone,1,4,Own
+250,251,5,f,Total!!Population of one race!!White alone,1,4,Own
+251,252,35,m,Total!!Population of one race!!White alone,1,3,Own
+252,253,39,f,Total!!Population of one race!!White alone,1,1,Rent
+253,254,15,m,Total!!Population of one race!!White alone,1,4,Own
+254,255,74,m,Total!!Population of one race!!White alone,0,4,Rent
+255,256,25,m,Total!!Population of one race!!White alone,1,4,Own
+256,257,43,m,Total!!Population of one race!!White alone,0,4,Own
+257,258,15,f,Total!!Population of one race!!White alone,1,3,Rent
+258,259,17,m,Total!!Population of one race!!White alone,1,3,Own
+259,260,37,m,Total!!Population of one race!!White alone,1,4,Own
+260,261,11,m,Total!!Population of one race!!White alone,0,3,Rent
+261,262,4,m,Total!!Population of one race!!White alone,1,4,Rent
+262,263,9,f,Total!!Population of one race!!White alone,1,4,Rent
+263,264,5,m,Total!!Population of one race!!White alone,1,4,Own
+264,265,15,m,Total!!Population of one race!!White alone,0,4,Rent
+265,266,56,m,Total!!Population of one race!!White alone,1,4,Own
+266,267,25,f,Total!!Population of one race!!White alone,1,4,Rent
+267,268,4,m,Total!!Population of one race!!White alone,1,4,Own
+268,269,25,f,Total!!Population of one race!!White alone,1,4,Own
+269,270,39,m,Total!!Population of one race!!White alone,1,4,Own
+270,271,17,f,Total!!Population of one race!!White alone,0,2,Own
+271,272,56,m,Total!!Population of one race!!White alone,1,2,Own
+272,273,33,f,Total!!Population of one race!!White alone,1,3,Rent
+273,274,66,f,Total!!Population of one race!!White alone,1,4,Rent
+274,275,8,m,Total!!Population of one race!!Black or African American alone,0,4,Own
+275,276,14,m,Total!!Population of one race!!Black or African American alone,0,3,Rent
+276,277,59,m,Total!!Population of one race!!Black or African American alone,0,1,Own
+277,278,37,m,Total!!Population of one race!!Black or African American alone,0,4,Own
+278,279,52,m,Total!!Population of one race!!Black or African American alone,0,1,Rent
+279,280,54,f,Total!!Population of one race!!Black or African American alone,0,4,Own
+280,281,14,f,Total!!Population of one race!!Black or African American alone,0,3,Own
+281,282,32,f,Total!!Population of one race!!Black or African American alone,0,4,Own
+282,283,72,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+283,284,13,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+284,285,57,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+285,286,33,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+286,287,73,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+287,288,17,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+288,289,74,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+289,290,34,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+290,291,41,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+291,292,59,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+292,293,79,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+293,294,45,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+294,295,84,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Rent
+295,296,68,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+296,297,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+297,298,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+298,299,5,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+299,300,65,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+300,301,36,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+301,302,85,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+302,303,27,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+303,304,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+304,305,70,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+305,306,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+306,307,62,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+307,308,45,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Rent
+308,309,63,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+309,310,40,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+310,311,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+311,312,35,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+312,313,26,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+313,314,20,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+314,315,1,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+315,316,6,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+316,317,11,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+317,318,55,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+318,319,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+319,320,3,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+320,321,56,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+321,322,9,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+322,323,60,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+323,324,11,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+324,325,83,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+325,326,17,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+326,327,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+327,328,56,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+328,329,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+329,330,24,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+330,331,44,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+331,332,36,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+332,333,10,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+333,334,3,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+334,335,64,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+335,336,89,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+336,337,2,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+337,338,24,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+338,339,47,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+339,340,74,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+340,341,2,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+341,342,5,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+342,343,45,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+343,344,55,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+344,345,60,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+345,346,28,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+346,347,20,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+347,348,19,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+348,349,54,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+349,350,76,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+350,351,22,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+351,352,24,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+352,353,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+353,354,0,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+354,355,29,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+355,356,58,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+356,357,64,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+357,358,88,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+358,359,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+359,360,4,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+360,361,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+361,362,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+362,363,58,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+363,364,17,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Rent
+364,365,50,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+365,366,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+366,367,19,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+367,368,38,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+368,369,4,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+369,370,66,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+370,371,59,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+371,372,20,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+372,373,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+373,374,32,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+374,375,28,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Own
+375,376,78,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+376,377,18,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+377,378,65,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+378,379,78,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+379,380,50,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+380,381,5,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+381,382,45,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+382,383,5,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+383,384,52,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+384,385,26,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+385,386,5,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+386,387,89,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+387,388,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+388,389,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+389,390,38,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+390,391,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+391,392,59,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+392,393,59,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+393,394,12,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+394,395,6,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+395,396,35,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+396,397,36,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+397,398,71,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+398,399,3,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+399,400,14,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+400,401,48,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+401,402,14,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+402,403,2,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+403,404,11,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+404,405,13,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+405,406,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+406,407,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+407,408,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+408,409,38,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+409,410,21,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+410,411,60,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+411,412,32,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+412,413,65,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+413,414,38,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+414,415,48,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+415,416,38,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+416,417,2,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+417,418,40,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+418,419,29,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+419,420,24,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+420,421,25,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+421,422,54,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+422,423,89,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+423,424,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+424,425,50,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Rent
+425,426,45,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+426,427,75,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+427,428,15,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+428,429,73,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+429,430,19,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+430,431,46,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+431,432,43,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+432,433,74,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+433,434,46,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+434,435,45,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+435,436,3,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+436,437,74,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+437,438,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+438,439,20,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+439,440,43,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+440,441,56,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+441,442,44,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+442,443,22,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+443,444,14,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+444,445,1,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+445,446,42,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+446,447,47,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+447,448,21,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+448,449,1,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+449,450,7,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+450,451,33,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+451,452,32,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+452,453,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+453,454,15,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+454,455,11,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+455,456,68,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+456,457,19,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+457,458,3,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+458,459,2,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+459,460,48,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+460,461,76,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+461,462,37,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+462,463,45,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+463,464,36,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+464,465,68,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+465,466,27,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+466,467,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+467,468,75,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+468,469,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+469,470,40,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+470,471,4,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+471,472,19,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+472,473,18,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+473,474,16,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+474,475,37,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+475,476,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+476,477,77,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+477,478,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+478,479,55,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+479,480,55,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+480,481,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+481,482,55,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+482,483,45,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+483,484,58,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+484,485,46,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+485,486,87,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+486,487,54,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+487,488,18,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+488,489,55,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+489,490,62,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+490,491,40,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+491,492,0,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+492,493,16,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+493,494,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+494,495,41,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+495,496,21,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+496,497,5,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+497,498,82,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+498,499,64,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+499,500,22,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+500,501,59,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+501,502,44,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,3,Own
+502,503,4,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+503,504,13,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+504,505,15,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+505,506,42,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+506,507,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+507,508,40,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Rent
+508,509,35,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+509,510,30,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+510,511,34,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+511,512,58,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+512,513,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+513,514,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+514,515,62,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+515,516,39,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+516,517,4,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+517,518,42,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+518,519,25,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+519,520,24,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+520,521,66,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+521,522,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+522,523,21,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+523,524,16,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+524,525,24,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+525,526,0,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+526,527,25,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+527,528,82,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+528,529,55,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+529,530,13,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+530,531,14,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+531,532,35,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Rent
+532,533,60,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+533,534,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+534,535,17,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+535,536,55,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+536,537,64,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+537,538,9,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+538,539,6,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+539,540,32,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+540,541,14,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+541,542,24,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+542,543,44,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+543,544,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+544,545,50,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+545,546,24,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+546,547,17,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+547,548,60,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+548,549,36,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+549,550,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+550,551,15,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+551,552,20,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+552,553,84,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+553,554,30,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+554,555,56,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+555,556,48,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+556,557,35,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+557,558,4,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+558,559,2,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+559,560,37,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+560,561,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+561,562,6,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+562,563,60,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+563,564,6,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+564,565,69,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+565,566,55,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+566,567,39,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+567,568,82,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+568,569,15,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+569,570,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+570,571,46,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+571,572,44,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+572,573,16,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+573,574,13,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+574,575,9,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+575,576,82,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+576,577,63,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+577,578,40,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+578,579,84,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+579,580,62,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+580,581,75,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+581,582,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+582,583,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+583,584,74,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+584,585,42,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+585,586,9,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+586,587,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+587,588,7,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+588,589,5,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+589,590,69,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+590,591,56,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+591,592,51,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+592,593,60,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+593,594,38,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+594,595,54,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+595,596,17,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+596,597,15,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+597,598,15,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Rent
+598,599,9,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,3,Own
+599,600,74,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+600,601,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+601,602,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,3,Own
+602,603,4,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+603,604,46,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+604,605,55,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+605,606,25,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+606,607,53,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+607,608,55,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+608,609,19,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,3,Own
+609,610,53,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+610,611,26,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+611,612,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+612,613,11,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+613,614,36,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+614,615,12,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+615,616,34,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+616,617,42,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+617,618,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+618,619,51,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+619,620,73,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+620,621,11,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+621,622,86,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+622,623,13,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+623,624,53,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+624,625,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+625,626,25,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+626,627,19,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+627,628,63,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+628,629,64,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+629,630,59,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+630,631,1,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+631,632,6,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+632,633,78,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+633,634,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+634,635,59,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+635,636,8,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+636,637,20,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+637,638,49,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+638,639,32,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+639,640,35,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+640,641,0,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+641,642,11,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+642,643,52,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+643,644,35,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+644,645,29,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+645,646,74,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+646,647,40,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+647,648,78,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+648,649,47,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+649,650,9,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+650,651,1,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+651,652,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+652,653,34,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+653,654,56,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+654,655,3,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+655,656,17,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,3,Rent
+656,657,27,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+657,658,53,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+658,659,66,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Own
+659,660,20,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+660,661,1,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+661,662,3,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+662,663,6,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+663,664,6,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+664,665,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+665,666,33,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+666,667,16,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+667,668,4,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+668,669,45,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+669,670,4,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+670,671,15,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+671,672,1,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+672,673,45,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+673,674,49,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+674,675,57,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+675,676,19,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+676,677,52,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Own
+677,678,53,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+678,679,18,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+679,680,34,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+680,681,14,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+681,682,16,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+682,683,31,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Rent
+683,684,29,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+684,685,11,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+685,686,37,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+686,687,17,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+687,688,83,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+688,689,65,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+689,690,12,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+690,691,42,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+691,692,56,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+692,693,50,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+693,694,45,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+694,695,42,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+695,696,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+696,697,9,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+697,698,52,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Rent
+698,699,42,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+699,700,48,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+700,701,58,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+701,702,15,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+702,703,1,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+703,704,58,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+704,705,48,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+705,706,42,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+706,707,10,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+707,708,39,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+708,709,3,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+709,710,51,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+710,711,31,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+711,712,12,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Rent
+712,713,54,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Rent
+713,714,6,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Own
+714,715,44,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+715,716,42,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+716,717,43,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+717,718,61,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,1,Own
+718,719,54,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,4,Own
+719,720,70,m,Total!!Population of one race!!American Indian and Alaska Native alone,0,3,Own
+720,721,0,f,Total!!Population of one race!!Asian alone,0,4,Own
+721,722,10,m,Total!!Population of one race!!Asian alone,0,1,Own
+722,723,74,m,Total!!Population of one race!!Asian alone,0,4,Own
+723,724,62,m,Total!!Population of one race!!Asian alone,0,4,Own
+724,725,51,m,Total!!Population of one race!!Asian alone,0,2,Own
+725,726,17,f,Total!!Population of one race!!Asian alone,0,4,Own
+726,727,24,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+727,728,36,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+728,729,18,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+729,730,26,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+730,731,41,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+731,732,43,m,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+732,733,15,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+733,734,56,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+734,735,73,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+735,736,53,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+736,737,24,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+737,738,44,f,Total!!Population of one race!!Some Other Race alone,0,2,Own
+738,739,9,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+739,740,64,m,Total!!Population of one race!!Some Other Race alone,1,3,Own
+740,741,64,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+741,742,41,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+742,743,68,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+743,744,42,m,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+744,745,0,m,Total!!Population of one race!!Some Other Race alone,0,1,Own
+745,746,55,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+746,747,8,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+747,748,29,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+748,749,41,m,Total!!Population of one race!!Some Other Race alone,1,3,Own
+749,750,53,f,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+750,751,68,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+751,752,71,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+752,753,75,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+753,754,37,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+754,755,19,f,Total!!Population of one race!!Some Other Race alone,1,1,Own
+755,756,9,m,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+756,757,62,m,Total!!Population of one race!!Some Other Race alone,1,3,Own
+757,758,71,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+758,759,25,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+759,760,69,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+760,761,14,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+761,762,34,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+762,763,55,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+763,764,17,m,Total!!Population of one race!!Some Other Race alone,1,3,Rent
+764,765,3,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+765,766,33,m,Total!!Population of one race!!Some Other Race alone,1,1,Rent
+766,767,73,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+767,768,12,f,Total!!Population of one race!!Some Other Race alone,1,1,Rent
+768,769,63,f,Total!!Population of one race!!Some Other Race alone,0,4,Own
+769,770,24,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+770,771,53,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+771,772,70,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+772,773,7,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+773,774,37,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+774,775,78,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+775,776,48,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+776,777,70,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+777,778,0,m,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+778,779,37,m,Total!!Population of one race!!Some Other Race alone,1,1,Own
+779,780,41,m,Total!!Population of one race!!Some Other Race alone,1,1,Own
+780,781,29,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+781,782,73,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+782,783,2,m,Total!!Population of one race!!Some Other Race alone,1,3,Own
+783,784,58,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+784,785,12,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+785,786,48,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+786,787,73,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+787,788,16,m,Total!!Population of one race!!Some Other Race alone,1,1,Own
+788,789,19,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+789,790,0,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+790,791,10,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+791,792,59,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+792,793,6,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+793,794,24,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+794,795,3,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+795,796,74,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+796,797,6,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+797,798,41,m,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+798,799,6,m,Total!!Two or More Races!!Population of two races!!White; Black or African American,1,4,Own
+799,800,39,f,Total!!Two or More Races!!Population of two races!!White; Black or African American,0,4,Rent
+800,801,7,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,1,Rent
+801,802,66,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Rent
+802,803,26,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Rent
+803,804,12,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,3,Rent
+804,805,22,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,3,Rent
+805,806,6,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Rent
+806,807,30,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,2,Rent
+807,808,57,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Rent
+808,809,11,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,2,Own
+809,810,14,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,1,4,Own
+810,811,1,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Own
+811,812,38,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,3,Rent
+812,813,48,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,1,2,Own
+813,814,42,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Own
+814,815,20,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,1,2,Own
+815,816,9,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Own
+816,817,81,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,2,Own
+817,818,68,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,1,2,Rent
+818,819,3,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Own
+819,820,5,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,1,Own
+820,821,76,f,Total!!Two or More Races!!Population of two races!!Black or African American; American Indian and Alaska Native,0,4,Own
+821,822,15,f,Total!!Two or More Races!!Population of two races!!Black or African American; American Indian and Alaska Native,1,1,Own
+822,823,14,m,Total!!Two or More Races!!Population of two races!!Black or African American; American Indian and Alaska Native,0,3,Rent
+823,824,6,f,Total!!Two or More Races!!Population of two races!!Black or African American; American Indian and Alaska Native,0,4,Own
+824,825,45,f,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Some Other Race,0,1,Own
+825,826,16,m,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Some Other Race,0,2,Own
+826,827,48,f,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Some Other Race,0,3,Rent
+827,828,30,m,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Some Other Race,0,3,Rent
+828,829,47,m,Total!!Two or More Races!!Population of three races!!White; Black or African American; American Indian and Alaska Native,1,4,Own

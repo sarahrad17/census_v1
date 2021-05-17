@@ -1,0 +1,1259 @@
+,id,age,sex,race,hispanic,household_size,household_tenure
+0,1,38,f,Total!!Population of one race!!White alone,0,4,Rent
+1,2,63,f,Total!!Population of one race!!White alone,0,3,Own
+2,3,55,f,Total!!Population of one race!!White alone,0,2,Own
+3,4,54,f,Total!!Population of one race!!White alone,0,1,Rent
+4,5,58,f,Total!!Population of one race!!White alone,0,1,Rent
+5,6,85,m,Total!!Population of one race!!White alone,0,2,Own
+6,7,28,f,Total!!Population of one race!!White alone,0,2,Own
+7,8,69,m,Total!!Population of one race!!White alone,0,4,Rent
+8,9,8,m,Total!!Population of one race!!White alone,0,2,Own
+9,10,33,m,Total!!Population of one race!!White alone,0,4,Rent
+10,11,54,f,Total!!Population of one race!!White alone,0,2,Own
+11,12,41,f,Total!!Population of one race!!White alone,0,2,Own
+12,13,20,f,Total!!Population of one race!!White alone,0,2,Own
+13,14,15,m,Total!!Population of one race!!White alone,1,2,Rent
+14,15,47,f,Total!!Population of one race!!White alone,1,4,Rent
+15,16,43,m,Total!!Population of one race!!White alone,0,4,Own
+16,17,48,m,Total!!Population of one race!!White alone,0,2,Own
+17,18,50,m,Total!!Population of one race!!White alone,0,4,Own
+18,19,31,m,Total!!Population of one race!!White alone,0,4,Own
+19,20,45,f,Total!!Population of one race!!White alone,0,3,Own
+20,21,50,f,Total!!Population of one race!!White alone,0,4,Own
+21,22,67,m,Total!!Population of one race!!White alone,0,4,Rent
+22,23,15,m,Total!!Population of one race!!White alone,0,4,Own
+23,24,60,m,Total!!Population of one race!!White alone,0,4,Own
+24,25,7,m,Total!!Population of one race!!White alone,0,3,Own
+25,26,58,f,Total!!Population of one race!!White alone,0,4,Rent
+26,27,9,f,Total!!Population of one race!!White alone,0,3,Own
+27,28,52,f,Total!!Population of one race!!White alone,0,3,Own
+28,29,15,m,Total!!Population of one race!!White alone,0,4,Rent
+29,30,56,f,Total!!Population of one race!!White alone,0,4,Own
+30,31,40,f,Total!!Population of one race!!White alone,0,4,Own
+31,32,1,f,Total!!Population of one race!!White alone,0,3,Own
+32,33,40,f,Total!!Population of one race!!White alone,0,2,Own
+33,34,8,m,Total!!Population of one race!!White alone,0,1,Rent
+34,35,15,f,Total!!Population of one race!!White alone,0,2,Rent
+35,36,38,f,Total!!Population of one race!!White alone,1,1,Own
+36,37,50,m,Total!!Population of one race!!White alone,0,2,Own
+37,38,58,m,Total!!Population of one race!!White alone,0,4,Own
+38,39,64,m,Total!!Population of one race!!White alone,0,4,Own
+39,40,7,f,Total!!Population of one race!!White alone,0,2,Own
+40,41,48,f,Total!!Population of one race!!White alone,0,4,Own
+41,42,60,m,Total!!Population of one race!!White alone,0,4,Own
+42,43,37,m,Total!!Population of one race!!White alone,1,4,Rent
+43,44,20,f,Total!!Population of one race!!White alone,0,4,Rent
+44,45,74,m,Total!!Population of one race!!White alone,0,4,Own
+45,46,19,m,Total!!Population of one race!!White alone,0,2,Rent
+46,47,71,m,Total!!Population of one race!!White alone,0,3,Rent
+47,48,50,m,Total!!Population of one race!!White alone,0,4,Rent
+48,49,67,f,Total!!Population of one race!!White alone,0,4,Own
+49,50,31,m,Total!!Population of one race!!White alone,0,2,Own
+50,51,50,m,Total!!Population of one race!!White alone,0,1,Own
+51,52,34,m,Total!!Population of one race!!White alone,0,2,Own
+52,53,57,m,Total!!Population of one race!!White alone,0,4,Rent
+53,54,20,f,Total!!Population of one race!!White alone,0,2,Rent
+54,55,62,f,Total!!Population of one race!!White alone,0,2,Own
+55,56,88,f,Total!!Population of one race!!White alone,0,4,Own
+56,57,31,f,Total!!Population of one race!!White alone,0,4,Own
+57,58,73,f,Total!!Population of one race!!White alone,0,2,Own
+58,59,0,f,Total!!Population of one race!!White alone,0,3,Own
+59,60,7,m,Total!!Population of one race!!White alone,0,3,Own
+60,61,14,m,Total!!Population of one race!!White alone,0,1,Own
+61,62,41,f,Total!!Population of one race!!White alone,0,2,Own
+62,63,68,m,Total!!Population of one race!!White alone,0,4,Own
+63,64,12,f,Total!!Population of one race!!White alone,0,1,Own
+64,65,34,m,Total!!Population of one race!!White alone,0,2,Own
+65,66,19,m,Total!!Population of one race!!White alone,0,2,Own
+66,67,58,m,Total!!Population of one race!!White alone,0,2,Rent
+67,68,4,m,Total!!Population of one race!!White alone,0,4,Own
+68,69,32,f,Total!!Population of one race!!White alone,0,2,Own
+69,70,21,m,Total!!Population of one race!!White alone,0,4,Own
+70,71,52,m,Total!!Population of one race!!White alone,0,3,Own
+71,72,45,f,Total!!Population of one race!!White alone,0,1,Own
+72,73,16,m,Total!!Population of one race!!White alone,0,1,Rent
+73,74,58,m,Total!!Population of one race!!White alone,0,3,Own
+74,75,39,m,Total!!Population of one race!!White alone,0,4,Rent
+75,76,84,m,Total!!Population of one race!!White alone,0,2,Own
+76,77,4,m,Total!!Population of one race!!White alone,1,4,Rent
+77,78,61,f,Total!!Population of one race!!White alone,0,2,Own
+78,79,16,f,Total!!Population of one race!!White alone,0,4,Own
+79,80,46,f,Total!!Population of one race!!White alone,0,1,Rent
+80,81,60,m,Total!!Population of one race!!White alone,0,1,Rent
+81,82,37,m,Total!!Population of one race!!White alone,0,1,Rent
+82,83,69,m,Total!!Population of one race!!White alone,0,3,Own
+83,84,13,m,Total!!Population of one race!!White alone,0,2,Own
+84,85,21,m,Total!!Population of one race!!White alone,0,2,Rent
+85,86,71,f,Total!!Population of one race!!White alone,0,2,Own
+86,87,29,f,Total!!Population of one race!!White alone,0,4,Own
+87,88,2,f,Total!!Population of one race!!White alone,1,2,Own
+88,89,63,f,Total!!Population of one race!!White alone,0,2,Rent
+89,90,0,f,Total!!Population of one race!!White alone,0,4,Own
+90,91,33,m,Total!!Population of one race!!White alone,0,2,Own
+91,92,4,f,Total!!Population of one race!!White alone,0,3,Own
+92,93,34,m,Total!!Population of one race!!White alone,0,2,Own
+93,94,16,m,Total!!Population of one race!!White alone,0,4,Own
+94,95,64,m,Total!!Population of one race!!White alone,0,2,Own
+95,96,15,m,Total!!Population of one race!!White alone,0,4,Own
+96,97,27,m,Total!!Population of one race!!White alone,0,2,Own
+97,98,71,m,Total!!Population of one race!!White alone,0,4,Own
+98,99,85,m,Total!!Population of one race!!White alone,0,2,Own
+99,100,60,m,Total!!Population of one race!!White alone,0,4,Rent
+100,101,53,f,Total!!Population of one race!!White alone,0,2,Own
+101,102,53,m,Total!!Population of one race!!White alone,0,1,Rent
+102,103,19,m,Total!!Population of one race!!White alone,0,4,Own
+103,104,50,f,Total!!Population of one race!!White alone,0,2,Own
+104,105,47,f,Total!!Population of one race!!White alone,0,2,Own
+105,106,67,m,Total!!Population of one race!!White alone,0,2,Rent
+106,107,43,m,Total!!Population of one race!!White alone,0,4,Rent
+107,108,14,f,Total!!Population of one race!!White alone,0,4,Own
+108,109,35,m,Total!!Population of one race!!White alone,0,4,Own
+109,110,68,m,Total!!Population of one race!!White alone,0,1,Own
+110,111,36,m,Total!!Population of one race!!White alone,0,4,Own
+111,112,10,f,Total!!Population of one race!!White alone,0,3,Rent
+112,113,62,f,Total!!Population of one race!!White alone,0,4,Own
+113,114,51,f,Total!!Population of one race!!White alone,0,4,Own
+114,115,20,f,Total!!Population of one race!!White alone,0,2,Own
+115,116,0,f,Total!!Population of one race!!White alone,0,1,Own
+116,117,63,m,Total!!Population of one race!!White alone,0,2,Own
+117,118,44,m,Total!!Population of one race!!White alone,0,3,Own
+118,119,52,f,Total!!Population of one race!!White alone,0,1,Own
+119,120,19,m,Total!!Population of one race!!White alone,1,2,Rent
+120,121,20,m,Total!!Population of one race!!White alone,0,3,Own
+121,122,38,m,Total!!Population of one race!!White alone,1,2,Own
+122,123,13,m,Total!!Population of one race!!White alone,1,2,Own
+123,124,33,f,Total!!Population of one race!!White alone,1,4,Rent
+124,125,0,m,Total!!Population of one race!!White alone,0,3,Rent
+125,126,20,m,Total!!Population of one race!!White alone,0,1,Own
+126,127,39,f,Total!!Population of one race!!White alone,0,4,Own
+127,128,4,m,Total!!Population of one race!!White alone,0,4,Own
+128,129,53,m,Total!!Population of one race!!White alone,0,1,Own
+129,130,18,f,Total!!Population of one race!!White alone,0,2,Own
+130,131,13,m,Total!!Population of one race!!White alone,0,2,Own
+131,132,5,f,Total!!Population of one race!!White alone,0,4,Own
+132,133,38,m,Total!!Population of one race!!White alone,0,4,Rent
+133,134,60,m,Total!!Population of one race!!White alone,0,3,Own
+134,135,0,m,Total!!Population of one race!!White alone,0,3,Rent
+135,136,60,m,Total!!Population of one race!!White alone,0,1,Rent
+136,137,37,f,Total!!Population of one race!!White alone,1,4,Own
+137,138,65,f,Total!!Population of one race!!White alone,0,3,Own
+138,139,29,f,Total!!Population of one race!!White alone,0,4,Own
+139,140,45,f,Total!!Population of one race!!White alone,0,4,Own
+140,141,85,f,Total!!Population of one race!!White alone,0,2,Own
+141,142,55,f,Total!!Population of one race!!White alone,0,3,Own
+142,143,23,m,Total!!Population of one race!!White alone,0,2,Own
+143,144,69,m,Total!!Population of one race!!White alone,0,4,Own
+144,145,84,f,Total!!Population of one race!!White alone,0,2,Rent
+145,146,28,m,Total!!Population of one race!!White alone,0,4,Rent
+146,147,21,m,Total!!Population of one race!!White alone,0,4,Rent
+147,148,67,f,Total!!Population of one race!!White alone,0,2,Rent
+148,149,58,f,Total!!Population of one race!!White alone,0,2,Rent
+149,150,13,f,Total!!Population of one race!!White alone,0,2,Rent
+150,151,19,f,Total!!Population of one race!!White alone,0,2,Own
+151,152,50,f,Total!!Population of one race!!White alone,0,2,Rent
+152,153,43,m,Total!!Population of one race!!White alone,0,3,Own
+153,154,66,f,Total!!Population of one race!!White alone,0,4,Own
+154,155,56,m,Total!!Population of one race!!White alone,0,3,Own
+155,156,38,m,Total!!Population of one race!!White alone,0,2,Rent
+156,157,76,f,Total!!Population of one race!!White alone,0,4,Own
+157,158,58,m,Total!!Population of one race!!White alone,0,1,Own
+158,159,63,m,Total!!Population of one race!!White alone,0,2,Own
+159,160,38,m,Total!!Population of one race!!White alone,0,3,Own
+160,161,13,f,Total!!Population of one race!!White alone,0,4,Own
+161,162,62,m,Total!!Population of one race!!White alone,0,4,Own
+162,163,31,m,Total!!Population of one race!!White alone,0,2,Own
+163,164,61,f,Total!!Population of one race!!White alone,0,2,Own
+164,165,4,f,Total!!Population of one race!!White alone,0,2,Own
+165,166,87,m,Total!!Population of one race!!White alone,0,1,Own
+166,167,64,f,Total!!Population of one race!!White alone,0,3,Own
+167,168,46,f,Total!!Population of one race!!White alone,1,4,Own
+168,169,3,m,Total!!Population of one race!!White alone,0,4,Own
+169,170,54,m,Total!!Population of one race!!White alone,0,4,Own
+170,171,71,m,Total!!Population of one race!!White alone,0,1,Own
+171,172,18,m,Total!!Population of one race!!White alone,0,4,Rent
+172,173,84,m,Total!!Population of one race!!White alone,0,2,Own
+173,174,0,f,Total!!Population of one race!!White alone,0,4,Own
+174,175,11,f,Total!!Population of one race!!White alone,0,1,Rent
+175,176,32,m,Total!!Population of one race!!White alone,0,3,Rent
+176,177,13,m,Total!!Population of one race!!White alone,0,4,Own
+177,178,35,m,Total!!Population of one race!!White alone,0,3,Rent
+178,179,76,f,Total!!Population of one race!!White alone,0,4,Own
+179,180,55,m,Total!!Population of one race!!White alone,0,4,Own
+180,181,29,f,Total!!Population of one race!!White alone,0,4,Own
+181,182,0,m,Total!!Population of one race!!White alone,0,2,Own
+182,183,25,m,Total!!Population of one race!!White alone,0,4,Own
+183,184,5,f,Total!!Population of one race!!White alone,0,4,Rent
+184,185,16,m,Total!!Population of one race!!White alone,0,4,Own
+185,186,47,f,Total!!Population of one race!!White alone,0,1,Own
+186,187,47,f,Total!!Population of one race!!White alone,1,4,Own
+187,188,63,m,Total!!Population of one race!!White alone,0,4,Own
+188,189,30,m,Total!!Population of one race!!White alone,0,2,Rent
+189,190,71,m,Total!!Population of one race!!White alone,0,3,Rent
+190,191,37,f,Total!!Population of one race!!White alone,0,2,Rent
+191,192,72,f,Total!!Population of one race!!White alone,0,3,Own
+192,193,10,m,Total!!Population of one race!!White alone,0,2,Rent
+193,194,15,f,Total!!Population of one race!!White alone,0,4,Rent
+194,195,58,f,Total!!Population of one race!!White alone,0,3,Rent
+195,196,23,m,Total!!Population of one race!!White alone,0,3,Own
+196,197,54,m,Total!!Population of one race!!White alone,0,4,Own
+197,198,76,m,Total!!Population of one race!!White alone,0,4,Own
+198,199,69,f,Total!!Population of one race!!White alone,0,2,Own
+199,200,72,m,Total!!Population of one race!!White alone,0,2,Rent
+200,201,41,m,Total!!Population of one race!!White alone,1,2,Own
+201,202,52,m,Total!!Population of one race!!White alone,0,4,Rent
+202,203,48,f,Total!!Population of one race!!White alone,0,3,Own
+203,204,68,m,Total!!Population of one race!!White alone,0,2,Own
+204,205,53,f,Total!!Population of one race!!White alone,0,2,Rent
+205,206,62,f,Total!!Population of one race!!White alone,0,1,Own
+206,207,46,f,Total!!Population of one race!!White alone,0,2,Own
+207,208,52,f,Total!!Population of one race!!White alone,0,3,Rent
+208,209,60,m,Total!!Population of one race!!White alone,0,4,Rent
+209,210,48,m,Total!!Population of one race!!White alone,0,2,Own
+210,211,50,f,Total!!Population of one race!!White alone,0,3,Rent
+211,212,4,m,Total!!Population of one race!!White alone,0,4,Rent
+212,213,59,f,Total!!Population of one race!!White alone,0,4,Own
+213,214,14,m,Total!!Population of one race!!White alone,0,2,Own
+214,215,56,f,Total!!Population of one race!!White alone,0,4,Own
+215,216,65,m,Total!!Population of one race!!White alone,0,4,Own
+216,217,33,m,Total!!Population of one race!!White alone,0,2,Rent
+217,218,77,f,Total!!Population of one race!!White alone,1,2,Own
+218,219,38,m,Total!!Population of one race!!White alone,0,4,Own
+219,220,50,m,Total!!Population of one race!!White alone,0,4,Own
+220,221,61,f,Total!!Population of one race!!White alone,1,2,Own
+221,222,27,m,Total!!Population of one race!!White alone,0,2,Own
+222,223,38,m,Total!!Population of one race!!White alone,0,4,Own
+223,224,51,f,Total!!Population of one race!!White alone,0,4,Rent
+224,225,63,m,Total!!Population of one race!!White alone,0,4,Own
+225,226,49,m,Total!!Population of one race!!White alone,0,1,Own
+226,227,47,f,Total!!Population of one race!!White alone,0,4,Own
+227,228,3,m,Total!!Population of one race!!White alone,0,1,Rent
+228,229,51,f,Total!!Population of one race!!White alone,0,4,Own
+229,230,34,m,Total!!Population of one race!!White alone,0,4,Rent
+230,231,50,f,Total!!Population of one race!!White alone,0,4,Own
+231,232,48,f,Total!!Population of one race!!White alone,0,3,Own
+232,233,48,m,Total!!Population of one race!!White alone,1,2,Own
+233,234,56,m,Total!!Population of one race!!White alone,0,4,Rent
+234,235,10,f,Total!!Population of one race!!White alone,0,4,Own
+235,236,16,f,Total!!Population of one race!!White alone,1,2,Own
+236,237,22,m,Total!!Population of one race!!White alone,0,2,Own
+237,238,71,m,Total!!Population of one race!!White alone,0,4,Own
+238,239,9,m,Total!!Population of one race!!White alone,0,4,Own
+239,240,65,m,Total!!Population of one race!!White alone,0,4,Own
+240,241,53,m,Total!!Population of one race!!White alone,0,2,Own
+241,242,16,m,Total!!Population of one race!!White alone,0,1,Rent
+242,243,27,m,Total!!Population of one race!!White alone,0,2,Own
+243,244,8,f,Total!!Population of one race!!White alone,0,2,Rent
+244,245,29,m,Total!!Population of one race!!White alone,0,4,Own
+245,246,21,f,Total!!Population of one race!!White alone,0,1,Rent
+246,247,85,m,Total!!Population of one race!!White alone,0,4,Own
+247,248,53,m,Total!!Population of one race!!White alone,0,1,Own
+248,249,47,f,Total!!Population of one race!!White alone,0,4,Own
+249,250,74,m,Total!!Population of one race!!White alone,0,4,Own
+250,251,48,m,Total!!Population of one race!!White alone,0,4,Rent
+251,252,68,f,Total!!Population of one race!!White alone,0,4,Own
+252,253,15,m,Total!!Population of one race!!White alone,0,4,Rent
+253,254,18,m,Total!!Population of one race!!White alone,0,3,Own
+254,255,64,f,Total!!Population of one race!!White alone,0,1,Own
+255,256,2,m,Total!!Population of one race!!White alone,0,4,Own
+256,257,66,f,Total!!Population of one race!!White alone,0,3,Rent
+257,258,0,m,Total!!Population of one race!!White alone,0,3,Own
+258,259,38,m,Total!!Population of one race!!White alone,0,3,Rent
+259,260,38,m,Total!!Population of one race!!White alone,0,4,Own
+260,261,45,f,Total!!Population of one race!!White alone,0,1,Own
+261,262,29,m,Total!!Population of one race!!White alone,0,3,Own
+262,263,11,m,Total!!Population of one race!!White alone,0,2,Own
+263,264,68,m,Total!!Population of one race!!White alone,0,3,Own
+264,265,24,m,Total!!Population of one race!!White alone,0,4,Own
+265,266,12,f,Total!!Population of one race!!White alone,0,1,Own
+266,267,63,m,Total!!Population of one race!!White alone,0,3,Own
+267,268,10,m,Total!!Population of one race!!White alone,0,3,Rent
+268,269,40,f,Total!!Population of one race!!White alone,0,2,Own
+269,270,81,f,Total!!Population of one race!!White alone,0,3,Own
+270,271,50,m,Total!!Population of one race!!White alone,0,2,Own
+271,272,58,m,Total!!Population of one race!!White alone,0,4,Rent
+272,273,87,m,Total!!Population of one race!!White alone,0,4,Own
+273,274,69,f,Total!!Population of one race!!White alone,0,3,Rent
+274,275,4,m,Total!!Population of one race!!White alone,0,4,Own
+275,276,58,m,Total!!Population of one race!!White alone,0,3,Rent
+276,277,40,f,Total!!Population of one race!!White alone,0,4,Own
+277,278,42,m,Total!!Population of one race!!White alone,0,4,Own
+278,279,56,m,Total!!Population of one race!!White alone,0,4,Rent
+279,280,3,f,Total!!Population of one race!!White alone,0,2,Own
+280,281,18,m,Total!!Population of one race!!White alone,0,4,Rent
+281,282,26,f,Total!!Population of one race!!White alone,0,3,Own
+282,283,60,m,Total!!Population of one race!!White alone,0,4,Rent
+283,284,15,m,Total!!Population of one race!!White alone,0,2,Rent
+284,285,46,f,Total!!Population of one race!!White alone,0,1,Own
+285,286,53,m,Total!!Population of one race!!White alone,0,3,Own
+286,287,41,f,Total!!Population of one race!!White alone,0,4,Rent
+287,288,47,m,Total!!Population of one race!!White alone,0,2,Rent
+288,289,71,m,Total!!Population of one race!!White alone,0,4,Own
+289,290,43,f,Total!!Population of one race!!White alone,1,2,Own
+290,291,11,m,Total!!Population of one race!!White alone,0,4,Rent
+291,292,6,m,Total!!Population of one race!!White alone,1,4,Rent
+292,293,22,m,Total!!Population of one race!!White alone,1,4,Own
+293,294,42,m,Total!!Population of one race!!White alone,0,2,Rent
+294,295,73,m,Total!!Population of one race!!White alone,0,1,Rent
+295,296,58,f,Total!!Population of one race!!White alone,1,4,Own
+296,297,20,f,Total!!Population of one race!!White alone,0,3,Own
+297,298,7,m,Total!!Population of one race!!White alone,0,4,Own
+298,299,29,f,Total!!Population of one race!!White alone,0,4,Own
+299,300,67,m,Total!!Population of one race!!White alone,0,4,Own
+300,301,20,f,Total!!Population of one race!!White alone,0,4,Own
+301,302,13,f,Total!!Population of one race!!White alone,0,3,Own
+302,303,30,f,Total!!Population of one race!!White alone,0,4,Own
+303,304,22,m,Total!!Population of one race!!White alone,1,4,Own
+304,305,1,m,Total!!Population of one race!!White alone,0,4,Own
+305,306,23,f,Total!!Population of one race!!White alone,0,4,Own
+306,307,52,m,Total!!Population of one race!!White alone,0,2,Own
+307,308,47,f,Total!!Population of one race!!White alone,0,2,Own
+308,309,57,f,Total!!Population of one race!!White alone,0,4,Own
+309,310,37,f,Total!!Population of one race!!White alone,0,2,Rent
+310,311,33,m,Total!!Population of one race!!White alone,0,2,Own
+311,312,5,m,Total!!Population of one race!!White alone,0,3,Rent
+312,313,30,f,Total!!Population of one race!!White alone,0,4,Own
+313,314,48,m,Total!!Population of one race!!White alone,1,4,Rent
+314,315,8,m,Total!!Population of one race!!White alone,0,2,Rent
+315,316,74,m,Total!!Population of one race!!White alone,0,4,Own
+316,317,78,f,Total!!Population of one race!!White alone,0,2,Own
+317,318,15,f,Total!!Population of one race!!White alone,0,3,Own
+318,319,30,m,Total!!Population of one race!!White alone,0,4,Rent
+319,320,88,f,Total!!Population of one race!!White alone,0,2,Rent
+320,321,33,f,Total!!Population of one race!!White alone,0,4,Own
+321,322,68,f,Total!!Population of one race!!Black or African American alone,1,4,Rent
+322,323,56,f,Total!!Population of one race!!Black or African American alone,0,2,Own
+323,324,37,f,Total!!Population of one race!!Black or African American alone,0,4,Own
+324,325,37,f,Total!!Population of one race!!Black or African American alone,0,4,Own
+325,326,71,m,Total!!Population of one race!!Black or African American alone,0,3,Own
+326,327,30,f,Total!!Population of one race!!Black or African American alone,0,4,Own
+327,328,19,m,Total!!Population of one race!!Black or African American alone,0,4,Rent
+328,329,60,m,Total!!Population of one race!!Black or African American alone,0,2,Own
+329,330,12,m,Total!!Population of one race!!Black or African American alone,0,4,Own
+330,331,73,f,Total!!Population of one race!!Black or African American alone,0,4,Rent
+331,332,33,f,Total!!Population of one race!!Black or African American alone,1,2,Own
+332,333,14,m,Total!!Population of one race!!Black or African American alone,0,4,Own
+333,334,8,m,Total!!Population of one race!!Black or African American alone,0,1,Own
+334,335,50,m,Total!!Population of one race!!Black or African American alone,0,4,Own
+335,336,65,f,Total!!Population of one race!!Black or African American alone,0,4,Rent
+336,337,30,f,Total!!Population of one race!!Black or African American alone,0,4,Rent
+337,338,31,f,Total!!Population of one race!!Black or African American alone,0,2,Rent
+338,339,58,f,Total!!Population of one race!!Black or African American alone,0,3,Own
+339,340,57,f,Total!!Population of one race!!Black or African American alone,0,4,Rent
+340,341,52,f,Total!!Population of one race!!Black or African American alone,0,2,Own
+341,342,10,f,Total!!Population of one race!!Black or African American alone,0,2,Rent
+342,343,52,m,Total!!Population of one race!!Black or African American alone,0,4,Own
+343,344,32,f,Total!!Population of one race!!Black or African American alone,1,4,Own
+344,345,87,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Own
+345,346,69,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Rent
+346,347,85,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,1,Rent
+347,348,12,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,2,Own
+348,349,16,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+349,350,64,f,Total!!Population of one race!!American Indian and Alaska Native alone,0,2,Rent
+350,351,16,m,Total!!Population of one race!!American Indian and Alaska Native alone,1,4,Rent
+351,352,14,f,Total!!Population of one race!!American Indian and Alaska Native alone,1,3,Own
+352,353,58,m,Total!!Population of one race!!Asian alone,0,4,Rent
+353,354,13,f,Total!!Population of one race!!Asian alone,0,2,Own
+354,355,5,f,Total!!Population of one race!!Asian alone,0,3,Own
+355,356,25,m,Total!!Population of one race!!Asian alone,0,4,Own
+356,357,66,m,Total!!Population of one race!!Asian alone,0,2,Own
+357,358,73,f,Total!!Population of one race!!Asian alone,0,2,Own
+358,359,60,m,Total!!Population of one race!!Asian alone,0,4,Own
+359,360,71,m,Total!!Population of one race!!Asian alone,0,4,Own
+360,361,14,f,Total!!Population of one race!!Asian alone,0,3,Own
+361,362,63,m,Total!!Population of one race!!Asian alone,0,1,Own
+362,363,68,f,Total!!Population of one race!!Asian alone,0,3,Own
+363,364,45,m,Total!!Population of one race!!Asian alone,0,4,Rent
+364,365,16,f,Total!!Population of one race!!Asian alone,0,4,Own
+365,366,16,m,Total!!Population of one race!!Asian alone,0,3,Own
+366,367,50,f,Total!!Population of one race!!Asian alone,0,3,Own
+367,368,67,m,Total!!Population of one race!!Asian alone,0,3,Own
+368,369,61,m,Total!!Population of one race!!Asian alone,0,1,Own
+369,370,17,m,Total!!Population of one race!!Asian alone,0,4,Rent
+370,371,69,f,Total!!Population of one race!!Asian alone,0,4,Own
+371,372,29,m,Total!!Population of one race!!Asian alone,0,4,Own
+372,373,44,m,Total!!Population of one race!!Asian alone,0,4,Rent
+373,374,58,f,Total!!Population of one race!!Asian alone,0,2,Own
+374,375,15,m,Total!!Population of one race!!Asian alone,0,2,Own
+375,376,43,m,Total!!Population of one race!!Asian alone,0,2,Own
+376,377,24,m,Total!!Population of one race!!Asian alone,0,4,Own
+377,378,10,f,Total!!Population of one race!!Asian alone,0,2,Own
+378,379,16,f,Total!!Population of one race!!Asian alone,0,3,Own
+379,380,61,f,Total!!Population of one race!!Asian alone,0,2,Own
+380,381,48,m,Total!!Population of one race!!Asian alone,0,2,Rent
+381,382,77,m,Total!!Population of one race!!Asian alone,0,2,Own
+382,383,50,f,Total!!Population of one race!!Asian alone,0,4,Own
+383,384,60,m,Total!!Population of one race!!Asian alone,0,4,Own
+384,385,15,f,Total!!Population of one race!!Asian alone,0,3,Own
+385,386,23,m,Total!!Population of one race!!Asian alone,0,2,Own
+386,387,79,m,Total!!Population of one race!!Asian alone,0,2,Own
+387,388,64,f,Total!!Population of one race!!Asian alone,0,2,Own
+388,389,26,f,Total!!Population of one race!!Asian alone,0,4,Own
+389,390,42,m,Total!!Population of one race!!Asian alone,0,1,Rent
+390,391,60,f,Total!!Population of one race!!Asian alone,0,2,Own
+391,392,49,f,Total!!Population of one race!!Asian alone,0,2,Own
+392,393,62,f,Total!!Population of one race!!Asian alone,0,4,Own
+393,394,1,m,Total!!Population of one race!!Asian alone,0,3,Own
+394,395,61,f,Total!!Population of one race!!Asian alone,0,2,Own
+395,396,50,m,Total!!Population of one race!!Asian alone,1,2,Own
+396,397,8,m,Total!!Population of one race!!Asian alone,0,3,Own
+397,398,78,f,Total!!Population of one race!!Asian alone,0,2,Own
+398,399,62,f,Total!!Population of one race!!Asian alone,0,4,Own
+399,400,52,f,Total!!Population of one race!!Asian alone,0,2,Own
+400,401,12,f,Total!!Population of one race!!Asian alone,0,4,Own
+401,402,56,f,Total!!Population of one race!!Asian alone,1,2,Own
+402,403,29,m,Total!!Population of one race!!Asian alone,0,4,Own
+403,404,47,m,Total!!Population of one race!!Asian alone,0,4,Own
+404,405,70,f,Total!!Population of one race!!Asian alone,0,1,Own
+405,406,6,m,Total!!Population of one race!!Asian alone,0,2,Rent
+406,407,74,m,Total!!Population of one race!!Asian alone,0,4,Rent
+407,408,63,f,Total!!Population of one race!!Asian alone,0,2,Own
+408,409,85,f,Total!!Population of one race!!Asian alone,0,2,Own
+409,410,2,m,Total!!Population of one race!!Asian alone,0,2,Own
+410,411,52,f,Total!!Population of one race!!Asian alone,0,2,Own
+411,412,72,m,Total!!Population of one race!!Asian alone,0,1,Own
+412,413,35,m,Total!!Population of one race!!Asian alone,0,4,Own
+413,414,68,f,Total!!Population of one race!!Asian alone,0,4,Own
+414,415,13,f,Total!!Population of one race!!Asian alone,0,4,Rent
+415,416,37,f,Total!!Population of one race!!Asian alone,0,2,Own
+416,417,27,f,Total!!Population of one race!!Asian alone,0,2,Own
+417,418,57,m,Total!!Population of one race!!Asian alone,0,4,Rent
+418,419,50,f,Total!!Population of one race!!Asian alone,0,4,Own
+419,420,53,f,Total!!Population of one race!!Asian alone,1,2,Own
+420,421,37,f,Total!!Population of one race!!Asian alone,0,3,Own
+421,422,43,f,Total!!Population of one race!!Asian alone,0,1,Rent
+422,423,68,f,Total!!Population of one race!!Asian alone,0,4,Own
+423,424,11,m,Total!!Population of one race!!Asian alone,0,4,Rent
+424,425,59,f,Total!!Population of one race!!Asian alone,0,4,Rent
+425,426,64,m,Total!!Population of one race!!Asian alone,0,4,Rent
+426,427,21,m,Total!!Population of one race!!Asian alone,0,3,Rent
+427,428,57,f,Total!!Population of one race!!Asian alone,0,4,Rent
+428,429,48,m,Total!!Population of one race!!Asian alone,0,2,Own
+429,430,3,f,Total!!Population of one race!!Asian alone,0,4,Own
+430,431,53,m,Total!!Population of one race!!Asian alone,0,2,Own
+431,432,5,f,Total!!Population of one race!!Asian alone,0,4,Own
+432,433,54,m,Total!!Population of one race!!Asian alone,0,2,Own
+433,434,44,f,Total!!Population of one race!!Asian alone,0,4,Own
+434,435,20,f,Total!!Population of one race!!Asian alone,0,2,Own
+435,436,50,f,Total!!Population of one race!!Asian alone,0,3,Own
+436,437,28,f,Total!!Population of one race!!Asian alone,0,2,Own
+437,438,35,f,Total!!Population of one race!!Asian alone,0,4,Own
+438,439,0,f,Total!!Population of one race!!Asian alone,0,1,Own
+439,440,51,f,Total!!Population of one race!!Asian alone,0,1,Rent
+440,441,52,m,Total!!Population of one race!!Asian alone,0,2,Own
+441,442,17,m,Total!!Population of one race!!Asian alone,0,4,Own
+442,443,18,f,Total!!Population of one race!!Asian alone,0,2,Own
+443,444,59,m,Total!!Population of one race!!Asian alone,0,4,Own
+444,445,41,f,Total!!Population of one race!!Asian alone,0,4,Own
+445,446,18,m,Total!!Population of one race!!Asian alone,0,3,Own
+446,447,19,f,Total!!Population of one race!!Asian alone,0,3,Rent
+447,448,29,f,Total!!Population of one race!!Asian alone,0,4,Own
+448,449,16,f,Total!!Population of one race!!Asian alone,0,2,Own
+449,450,61,m,Total!!Population of one race!!Asian alone,0,2,Rent
+450,451,43,m,Total!!Population of one race!!Asian alone,0,1,Rent
+451,452,66,m,Total!!Population of one race!!Asian alone,0,1,Own
+452,453,48,f,Total!!Population of one race!!Asian alone,0,3,Rent
+453,454,72,m,Total!!Population of one race!!Asian alone,0,2,Own
+454,455,1,m,Total!!Population of one race!!Asian alone,0,4,Own
+455,456,51,f,Total!!Population of one race!!Asian alone,0,3,Own
+456,457,35,f,Total!!Population of one race!!Asian alone,0,2,Own
+457,458,33,m,Total!!Population of one race!!Asian alone,0,3,Own
+458,459,65,f,Total!!Population of one race!!Asian alone,0,4,Own
+459,460,14,f,Total!!Population of one race!!Asian alone,0,2,Rent
+460,461,56,f,Total!!Population of one race!!Asian alone,0,2,Own
+461,462,63,f,Total!!Population of one race!!Asian alone,0,2,Own
+462,463,1,m,Total!!Population of one race!!Asian alone,0,4,Own
+463,464,25,m,Total!!Population of one race!!Asian alone,1,2,Own
+464,465,14,f,Total!!Population of one race!!Asian alone,0,2,Own
+465,466,78,f,Total!!Population of one race!!Asian alone,0,4,Own
+466,467,38,f,Total!!Population of one race!!Asian alone,0,4,Rent
+467,468,76,m,Total!!Population of one race!!Asian alone,0,4,Own
+468,469,37,m,Total!!Population of one race!!Asian alone,0,3,Own
+469,470,12,f,Total!!Population of one race!!Asian alone,0,3,Rent
+470,471,6,f,Total!!Population of one race!!Asian alone,0,1,Rent
+471,472,26,f,Total!!Population of one race!!Asian alone,0,4,Own
+472,473,65,m,Total!!Population of one race!!Asian alone,0,4,Own
+473,474,45,m,Total!!Population of one race!!Asian alone,0,3,Rent
+474,475,11,m,Total!!Population of one race!!Asian alone,0,4,Own
+475,476,13,m,Total!!Population of one race!!Asian alone,0,2,Own
+476,477,68,m,Total!!Population of one race!!Asian alone,0,2,Rent
+477,478,37,m,Total!!Population of one race!!Asian alone,0,4,Rent
+478,479,60,m,Total!!Population of one race!!Asian alone,0,2,Own
+479,480,69,f,Total!!Population of one race!!Asian alone,0,2,Own
+480,481,18,m,Total!!Population of one race!!Asian alone,0,3,Rent
+481,482,25,f,Total!!Population of one race!!Asian alone,0,2,Own
+482,483,31,f,Total!!Population of one race!!Asian alone,0,1,Rent
+483,484,20,f,Total!!Population of one race!!Asian alone,0,4,Own
+484,485,50,f,Total!!Population of one race!!Asian alone,0,2,Own
+485,486,0,f,Total!!Population of one race!!Asian alone,0,2,Own
+486,487,9,m,Total!!Population of one race!!Asian alone,0,3,Rent
+487,488,65,f,Total!!Population of one race!!Asian alone,0,2,Own
+488,489,71,m,Total!!Population of one race!!Asian alone,0,4,Own
+489,490,66,f,Total!!Population of one race!!Asian alone,0,2,Rent
+490,491,22,m,Total!!Population of one race!!Asian alone,0,4,Own
+491,492,1,f,Total!!Population of one race!!Asian alone,0,4,Rent
+492,493,33,m,Total!!Population of one race!!Asian alone,0,4,Own
+493,494,76,f,Total!!Population of one race!!Asian alone,0,4,Own
+494,495,27,m,Total!!Population of one race!!Asian alone,0,4,Rent
+495,496,15,f,Total!!Population of one race!!Asian alone,0,4,Rent
+496,497,8,m,Total!!Population of one race!!Asian alone,0,2,Own
+497,498,63,m,Total!!Population of one race!!Asian alone,0,2,Rent
+498,499,53,f,Total!!Population of one race!!Asian alone,0,4,Rent
+499,500,33,m,Total!!Population of one race!!Asian alone,0,3,Own
+500,501,18,f,Total!!Population of one race!!Asian alone,0,2,Rent
+501,502,5,m,Total!!Population of one race!!Asian alone,0,4,Own
+502,503,60,m,Total!!Population of one race!!Asian alone,0,4,Own
+503,504,12,f,Total!!Population of one race!!Asian alone,0,3,Rent
+504,505,45,f,Total!!Population of one race!!Asian alone,0,1,Own
+505,506,6,m,Total!!Population of one race!!Asian alone,0,2,Own
+506,507,51,f,Total!!Population of one race!!Asian alone,0,4,Own
+507,508,36,m,Total!!Population of one race!!Asian alone,0,1,Own
+508,509,0,m,Total!!Population of one race!!Asian alone,0,3,Own
+509,510,7,m,Total!!Population of one race!!Asian alone,0,2,Own
+510,511,34,f,Total!!Population of one race!!Asian alone,0,2,Own
+511,512,23,f,Total!!Population of one race!!Asian alone,0,4,Own
+512,513,49,f,Total!!Population of one race!!Asian alone,0,1,Own
+513,514,37,f,Total!!Population of one race!!Asian alone,0,2,Own
+514,515,29,f,Total!!Population of one race!!Asian alone,0,2,Own
+515,516,77,m,Total!!Population of one race!!Asian alone,0,2,Own
+516,517,6,m,Total!!Population of one race!!Asian alone,0,4,Own
+517,518,13,m,Total!!Population of one race!!Asian alone,0,1,Own
+518,519,7,m,Total!!Population of one race!!Asian alone,0,1,Own
+519,520,19,m,Total!!Population of one race!!Asian alone,0,4,Own
+520,521,31,m,Total!!Population of one race!!Asian alone,0,3,Rent
+521,522,0,m,Total!!Population of one race!!Asian alone,0,4,Own
+522,523,11,m,Total!!Population of one race!!Asian alone,1,4,Rent
+523,524,13,m,Total!!Population of one race!!Asian alone,0,4,Own
+524,525,54,m,Total!!Population of one race!!Asian alone,0,4,Own
+525,526,15,m,Total!!Population of one race!!Asian alone,0,2,Own
+526,527,51,m,Total!!Population of one race!!Asian alone,0,4,Own
+527,528,10,f,Total!!Population of one race!!Asian alone,0,4,Own
+528,529,67,m,Total!!Population of one race!!Asian alone,0,2,Rent
+529,530,76,f,Total!!Population of one race!!Asian alone,0,2,Own
+530,531,35,m,Total!!Population of one race!!Asian alone,0,4,Rent
+531,532,19,m,Total!!Population of one race!!Asian alone,0,2,Own
+532,533,22,f,Total!!Population of one race!!Asian alone,0,4,Own
+533,534,75,m,Total!!Population of one race!!Asian alone,0,1,Rent
+534,535,81,f,Total!!Population of one race!!Asian alone,0,4,Rent
+535,536,44,f,Total!!Population of one race!!Asian alone,0,2,Own
+536,537,72,m,Total!!Population of one race!!Asian alone,0,4,Own
+537,538,69,m,Total!!Population of one race!!Asian alone,0,3,Own
+538,539,21,m,Total!!Population of one race!!Asian alone,0,3,Rent
+539,540,71,f,Total!!Population of one race!!Asian alone,0,4,Rent
+540,541,78,f,Total!!Population of one race!!Asian alone,0,4,Own
+541,542,13,f,Total!!Population of one race!!Asian alone,0,4,Own
+542,543,14,f,Total!!Population of one race!!Asian alone,0,4,Own
+543,544,60,m,Total!!Population of one race!!Asian alone,0,4,Rent
+544,545,37,f,Total!!Population of one race!!Asian alone,0,3,Rent
+545,546,18,m,Total!!Population of one race!!Asian alone,0,4,Own
+546,547,48,m,Total!!Population of one race!!Asian alone,0,1,Rent
+547,548,63,m,Total!!Population of one race!!Asian alone,0,4,Own
+548,549,55,f,Total!!Population of one race!!Asian alone,0,3,Rent
+549,550,16,f,Total!!Population of one race!!Asian alone,0,4,Own
+550,551,55,m,Total!!Population of one race!!Asian alone,0,2,Own
+551,552,33,m,Total!!Population of one race!!Asian alone,0,3,Own
+552,553,29,f,Total!!Population of one race!!Asian alone,0,1,Own
+553,554,3,f,Total!!Population of one race!!Asian alone,0,3,Rent
+554,555,22,f,Total!!Population of one race!!Asian alone,0,4,Rent
+555,556,53,m,Total!!Population of one race!!Asian alone,0,3,Rent
+556,557,56,f,Total!!Population of one race!!Asian alone,0,4,Rent
+557,558,85,f,Total!!Population of one race!!Asian alone,0,4,Own
+558,559,60,f,Total!!Population of one race!!Asian alone,0,2,Own
+559,560,32,f,Total!!Population of one race!!Asian alone,0,4,Own
+560,561,52,f,Total!!Population of one race!!Asian alone,0,4,Own
+561,562,31,m,Total!!Population of one race!!Asian alone,0,2,Own
+562,563,24,f,Total!!Population of one race!!Asian alone,0,4,Own
+563,564,69,m,Total!!Population of one race!!Asian alone,0,3,Own
+564,565,29,m,Total!!Population of one race!!Asian alone,0,1,Own
+565,566,30,m,Total!!Population of one race!!Asian alone,0,4,Own
+566,567,63,m,Total!!Population of one race!!Asian alone,0,2,Rent
+567,568,62,f,Total!!Population of one race!!Asian alone,0,4,Own
+568,569,4,m,Total!!Population of one race!!Asian alone,0,4,Own
+569,570,14,m,Total!!Population of one race!!Asian alone,0,4,Own
+570,571,18,f,Total!!Population of one race!!Asian alone,0,4,Own
+571,572,81,m,Total!!Population of one race!!Asian alone,0,4,Own
+572,573,60,m,Total!!Population of one race!!Asian alone,0,1,Rent
+573,574,7,m,Total!!Population of one race!!Asian alone,0,4,Own
+574,575,68,f,Total!!Population of one race!!Asian alone,0,4,Rent
+575,576,27,m,Total!!Population of one race!!Asian alone,0,4,Rent
+576,577,67,m,Total!!Population of one race!!Asian alone,0,1,Own
+577,578,59,f,Total!!Population of one race!!Asian alone,0,1,Rent
+578,579,2,f,Total!!Population of one race!!Asian alone,0,4,Rent
+579,580,60,m,Total!!Population of one race!!Asian alone,0,1,Rent
+580,581,58,m,Total!!Population of one race!!Asian alone,0,3,Own
+581,582,29,m,Total!!Population of one race!!Asian alone,0,3,Own
+582,583,61,m,Total!!Population of one race!!Asian alone,0,4,Own
+583,584,30,m,Total!!Population of one race!!Asian alone,0,2,Rent
+584,585,84,f,Total!!Population of one race!!Asian alone,0,4,Rent
+585,586,10,f,Total!!Population of one race!!Asian alone,0,2,Own
+586,587,58,m,Total!!Population of one race!!Asian alone,0,3,Own
+587,588,48,m,Total!!Population of one race!!Asian alone,0,2,Rent
+588,589,81,f,Total!!Population of one race!!Asian alone,1,4,Own
+589,590,15,f,Total!!Population of one race!!Asian alone,0,1,Own
+590,591,5,f,Total!!Population of one race!!Asian alone,0,3,Own
+591,592,5,f,Total!!Population of one race!!Asian alone,0,4,Own
+592,593,18,m,Total!!Population of one race!!Asian alone,0,4,Rent
+593,594,64,m,Total!!Population of one race!!Asian alone,0,3,Own
+594,595,18,f,Total!!Population of one race!!Asian alone,0,4,Own
+595,596,28,f,Total!!Population of one race!!Asian alone,0,1,Rent
+596,597,16,f,Total!!Population of one race!!Asian alone,0,4,Rent
+597,598,4,f,Total!!Population of one race!!Asian alone,0,3,Rent
+598,599,47,f,Total!!Population of one race!!Asian alone,0,1,Own
+599,600,50,f,Total!!Population of one race!!Asian alone,0,1,Rent
+600,601,62,f,Total!!Population of one race!!Asian alone,0,4,Own
+601,602,69,m,Total!!Population of one race!!Asian alone,0,3,Own
+602,603,54,f,Total!!Population of one race!!Asian alone,0,3,Own
+603,604,30,m,Total!!Population of one race!!Asian alone,0,2,Rent
+604,605,6,f,Total!!Population of one race!!Asian alone,0,4,Rent
+605,606,40,m,Total!!Population of one race!!Asian alone,0,3,Own
+606,607,29,f,Total!!Population of one race!!Asian alone,0,4,Own
+607,608,57,f,Total!!Population of one race!!Asian alone,0,2,Own
+608,609,73,f,Total!!Population of one race!!Asian alone,0,3,Rent
+609,610,21,f,Total!!Population of one race!!Asian alone,0,1,Own
+610,611,19,m,Total!!Population of one race!!Asian alone,0,4,Own
+611,612,60,m,Total!!Population of one race!!Asian alone,0,1,Rent
+612,613,29,m,Total!!Population of one race!!Asian alone,0,4,Rent
+613,614,0,f,Total!!Population of one race!!Asian alone,0,4,Rent
+614,615,63,m,Total!!Population of one race!!Asian alone,0,2,Own
+615,616,53,m,Total!!Population of one race!!Asian alone,0,1,Own
+616,617,69,f,Total!!Population of one race!!Asian alone,0,1,Rent
+617,618,51,m,Total!!Population of one race!!Asian alone,0,2,Own
+618,619,23,f,Total!!Population of one race!!Asian alone,0,4,Rent
+619,620,11,m,Total!!Population of one race!!Asian alone,0,4,Own
+620,621,30,f,Total!!Population of one race!!Asian alone,0,2,Own
+621,622,0,m,Total!!Population of one race!!Asian alone,0,4,Own
+622,623,61,m,Total!!Population of one race!!Asian alone,0,4,Own
+623,624,47,m,Total!!Population of one race!!Asian alone,0,2,Rent
+624,625,0,m,Total!!Population of one race!!Asian alone,0,4,Own
+625,626,52,m,Total!!Population of one race!!Asian alone,0,4,Rent
+626,627,31,f,Total!!Population of one race!!Asian alone,0,4,Rent
+627,628,88,m,Total!!Population of one race!!Asian alone,0,3,Rent
+628,629,56,f,Total!!Population of one race!!Asian alone,0,4,Rent
+629,630,0,m,Total!!Population of one race!!Asian alone,0,3,Rent
+630,631,18,m,Total!!Population of one race!!Asian alone,0,4,Own
+631,632,34,m,Total!!Population of one race!!Asian alone,0,2,Rent
+632,633,22,m,Total!!Population of one race!!Asian alone,0,3,Rent
+633,634,0,m,Total!!Population of one race!!Asian alone,0,4,Own
+634,635,63,m,Total!!Population of one race!!Asian alone,0,4,Own
+635,636,30,m,Total!!Population of one race!!Asian alone,0,3,Own
+636,637,77,m,Total!!Population of one race!!Asian alone,0,4,Own
+637,638,53,m,Total!!Population of one race!!Asian alone,0,4,Own
+638,639,54,m,Total!!Population of one race!!Asian alone,0,2,Own
+639,640,20,f,Total!!Population of one race!!Asian alone,0,2,Rent
+640,641,12,f,Total!!Population of one race!!Asian alone,0,1,Own
+641,642,52,m,Total!!Population of one race!!Asian alone,0,2,Rent
+642,643,0,m,Total!!Population of one race!!Asian alone,0,4,Own
+643,644,52,f,Total!!Population of one race!!Asian alone,0,2,Own
+644,645,15,f,Total!!Population of one race!!Asian alone,0,2,Own
+645,646,43,f,Total!!Population of one race!!Asian alone,0,2,Own
+646,647,60,m,Total!!Population of one race!!Asian alone,0,4,Rent
+647,648,16,m,Total!!Population of one race!!Asian alone,0,2,Own
+648,649,61,f,Total!!Population of one race!!Asian alone,0,4,Rent
+649,650,66,f,Total!!Population of one race!!Asian alone,0,3,Own
+650,651,50,m,Total!!Population of one race!!Asian alone,0,2,Own
+651,652,24,f,Total!!Population of one race!!Asian alone,0,1,Own
+652,653,57,f,Total!!Population of one race!!Asian alone,0,4,Rent
+653,654,84,m,Total!!Population of one race!!Asian alone,0,1,Rent
+654,655,19,m,Total!!Population of one race!!Asian alone,0,4,Own
+655,656,0,f,Total!!Population of one race!!Asian alone,1,2,Own
+656,657,20,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+657,658,71,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+658,659,81,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+659,660,30,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+660,661,37,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+661,662,0,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+662,663,81,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+663,664,8,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+664,665,45,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+665,666,50,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+666,667,71,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+667,668,47,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+668,669,46,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+669,670,57,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+670,671,28,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+671,672,3,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+672,673,29,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+673,674,64,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+674,675,61,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+675,676,60,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+676,677,62,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+677,678,50,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+678,679,24,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+679,680,81,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+680,681,9,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+681,682,25,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+682,683,34,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+683,684,51,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+684,685,9,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+685,686,10,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+686,687,29,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+687,688,50,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+688,689,19,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+689,690,57,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+690,691,44,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+691,692,34,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+692,693,60,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+693,694,10,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+694,695,5,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,4,Own
+695,696,34,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+696,697,44,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+697,698,13,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+698,699,44,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+699,700,29,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+700,701,15,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+701,702,32,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+702,703,68,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+703,704,59,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+704,705,31,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+705,706,73,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+706,707,42,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+707,708,67,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+708,709,58,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+709,710,26,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+710,711,19,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+711,712,9,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+712,713,20,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+713,714,13,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+714,715,81,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+715,716,61,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,3,Rent
+716,717,8,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+717,718,44,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+718,719,38,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+719,720,54,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+720,721,39,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+721,722,44,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+722,723,50,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+723,724,41,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+724,725,58,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+725,726,74,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+726,727,72,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+727,728,60,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+728,729,60,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+729,730,42,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+730,731,58,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+731,732,24,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,4,Rent
+732,733,59,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+733,734,28,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+734,735,38,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+735,736,76,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+736,737,6,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+737,738,44,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+738,739,63,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+739,740,59,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+740,741,14,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+741,742,72,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+742,743,73,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+743,744,19,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+744,745,5,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+745,746,44,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+746,747,62,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+747,748,35,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+748,749,7,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+749,750,74,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+750,751,71,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+751,752,17,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+752,753,7,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+753,754,14,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+754,755,60,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+755,756,15,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+756,757,85,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+757,758,60,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+758,759,61,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,2,Rent
+759,760,15,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+760,761,1,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+761,762,9,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+762,763,2,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+763,764,70,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+764,765,51,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,4,Rent
+765,766,50,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+766,767,28,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+767,768,29,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+768,769,0,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+769,770,19,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+770,771,65,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+771,772,45,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+772,773,10,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+773,774,60,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+774,775,18,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+775,776,51,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+776,777,24,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+777,778,53,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,4,Own
+778,779,65,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,3,Rent
+779,780,74,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+780,781,30,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+781,782,19,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+782,783,45,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+783,784,41,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+784,785,9,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+785,786,58,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+786,787,68,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+787,788,27,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+788,789,77,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+789,790,57,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+790,791,1,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+791,792,68,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+792,793,13,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+793,794,68,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+794,795,69,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+795,796,31,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+796,797,21,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+797,798,77,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+798,799,43,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+799,800,59,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,2,Own
+800,801,59,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Rent
+801,802,50,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+802,803,63,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+803,804,45,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+804,805,50,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+805,806,10,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,1,4,Rent
+806,807,3,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+807,808,15,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Rent
+808,809,44,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+809,810,16,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,2,Own
+810,811,54,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+811,812,18,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+812,813,72,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+813,814,21,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+814,815,17,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+815,816,53,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+816,817,12,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+817,818,18,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+818,819,61,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Rent
+819,820,62,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,3,Own
+820,821,35,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,1,Own
+821,822,48,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+822,823,62,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+823,824,24,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+824,825,5,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+825,826,22,m,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Rent
+826,827,45,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+827,828,44,f,Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,0,4,Own
+828,829,56,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+829,830,10,f,Total!!Population of one race!!Some Other Race alone,1,2,Own
+830,831,59,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+831,832,57,m,Total!!Population of one race!!Some Other Race alone,0,2,Own
+832,833,72,f,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+833,834,58,m,Total!!Population of one race!!Some Other Race alone,1,2,Own
+834,835,14,f,Total!!Population of one race!!Some Other Race alone,1,2,Rent
+835,836,42,f,Total!!Population of one race!!Some Other Race alone,1,3,Own
+836,837,71,m,Total!!Population of one race!!Some Other Race alone,1,4,Own
+837,838,21,m,Total!!Population of one race!!Some Other Race alone,0,4,Own
+838,839,14,f,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+839,840,0,f,Total!!Population of one race!!Some Other Race alone,1,1,Rent
+840,841,78,f,Total!!Population of one race!!Some Other Race alone,1,4,Own
+841,842,48,m,Total!!Population of one race!!Some Other Race alone,1,3,Rent
+842,843,40,m,Total!!Population of one race!!Some Other Race alone,1,4,Rent
+843,844,23,m,Total!!Two or More Races!!Population of two races!!White; Black or African American,0,2,Rent
+844,845,11,m,Total!!Two or More Races!!Population of two races!!White; Black or African American,0,3,Own
+845,846,60,f,Total!!Two or More Races!!Population of two races!!White; Black or African American,1,4,Own
+846,847,50,f,Total!!Two or More Races!!Population of two races!!White; Black or African American,0,4,Rent
+847,848,25,m,Total!!Two or More Races!!Population of two races!!White; Black or African American,0,4,Rent
+848,849,76,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,3,Own
+849,850,56,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Own
+850,851,58,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Own
+851,852,37,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,1,Rent
+852,853,72,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,1,2,Own
+853,854,27,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Own
+854,855,16,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,2,Own
+855,856,13,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,3,Own
+856,857,38,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Own
+857,858,26,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,1,4,Own
+858,859,61,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Rent
+859,860,15,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,1,2,Rent
+860,861,81,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,3,Own
+861,862,12,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Own
+862,863,0,m,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,2,Own
+863,864,23,f,Total!!Two or More Races!!Population of two races!!White; American Indian and Alaska Native,0,4,Own
+864,865,69,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Rent
+865,866,20,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+866,867,63,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Rent
+867,868,71,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,1,Own
+868,869,84,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,4,Own
+869,870,53,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+870,871,43,f,Total!!Two or More Races!!Population of two races!!White; Asian,1,4,Rent
+871,872,9,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Own
+872,873,48,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,3,Own
+873,874,4,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Own
+874,875,68,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Own
+875,876,30,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Own
+876,877,25,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,1,Rent
+877,878,0,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+878,879,37,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Rent
+879,880,44,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,4,Own
+880,881,44,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Own
+881,882,33,f,Total!!Two or More Races!!Population of two races!!White; Asian,1,1,Rent
+882,883,12,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,1,Rent
+883,884,40,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Own
+884,885,36,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,3,Own
+885,886,89,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+886,887,18,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+887,888,31,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,2,Rent
+888,889,66,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+889,890,61,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Own
+890,891,78,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Rent
+891,892,72,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Own
+892,893,68,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+893,894,51,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+894,895,60,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Rent
+895,896,5,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Rent
+896,897,84,f,Total!!Two or More Races!!Population of two races!!White; Asian,1,4,Own
+897,898,18,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,3,Own
+898,899,1,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+899,900,52,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+900,901,66,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+901,902,58,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,4,Own
+902,903,68,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+903,904,9,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+904,905,69,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+905,906,60,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,3,Own
+906,907,21,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+907,908,39,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+908,909,68,f,Total!!Two or More Races!!Population of two races!!White; Asian,1,3,Own
+909,910,38,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Own
+910,911,44,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+911,912,28,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Own
+912,913,22,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Rent
+913,914,49,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Rent
+914,915,14,f,Total!!Two or More Races!!Population of two races!!White; Asian,1,1,Rent
+915,916,44,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+916,917,5,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Rent
+917,918,28,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Own
+918,919,71,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+919,920,68,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+920,921,3,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Rent
+921,922,76,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,4,Own
+922,923,3,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,1,Own
+923,924,24,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,2,Rent
+924,925,61,m,Total!!Two or More Races!!Population of two races!!White; Asian,1,2,Rent
+925,926,66,f,Total!!Two or More Races!!Population of two races!!White; Asian,1,1,Own
+926,927,54,m,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Rent
+927,928,24,f,Total!!Two or More Races!!Population of two races!!White; Asian,0,3,Own
+928,929,5,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Own
+929,930,5,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+930,931,2,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Own
+931,932,52,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Rent
+932,933,42,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,3,Rent
+933,934,41,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,4,Rent
+934,935,69,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+935,936,45,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Rent
+936,937,80,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+937,938,4,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,3,Rent
+938,939,39,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,4,Own
+939,940,29,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Rent
+940,941,7,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,4,Own
+941,942,19,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,2,Own
+942,943,64,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Own
+943,944,51,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,2,Own
+944,945,40,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Rent
+945,946,54,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Own
+946,947,28,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,3,Rent
+947,948,16,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+948,949,29,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,4,Rent
+949,950,51,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+950,951,72,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Own
+951,952,67,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,1,Own
+952,953,29,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+953,954,52,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Rent
+954,955,43,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,3,Own
+955,956,61,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,3,Own
+956,957,35,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,1,2,Own
+957,958,50,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,4,Own
+958,959,1,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,3,Rent
+959,960,4,m,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,1,Rent
+960,961,29,f,Total!!Two or More Races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,0,2,Own
+961,962,44,m,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,2,Rent
+962,963,76,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,4,Own
+963,964,43,f,Total!!Two or More Races!!Population of two races!!White; Some Other Race,0,3,Own
+964,965,35,m,Total!!Two or More Races!!Population of two races!!Black or African American; American Indian and Alaska Native,0,2,Own
+965,966,50,f,Total!!Two or More Races!!Population of two races!!Black or African American; Asian,0,4,Rent
+966,967,70,f,Total!!Two or More Races!!Population of two races!!Black or African American; Asian,0,4,Own
+967,968,1,m,Total!!Two or More Races!!Population of two races!!Black or African American; Asian,0,4,Own
+968,969,14,f,Total!!Two or More Races!!Population of two races!!Black or African American; Asian,0,4,Own
+969,970,33,f,Total!!Two or More Races!!Population of two races!!Black or African American; Asian,0,2,Rent
+970,971,14,f,Total!!Two or More Races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,0,2,Rent
+971,972,60,m,Total!!Two or More Races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,1,3,Rent
+972,973,18,m,Total!!Two or More Races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,0,3,Own
+973,974,60,m,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Asian,0,4,Own
+974,975,69,m,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,2,Own
+975,976,13,m,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,2,Rent
+976,977,43,f,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,4,Own
+977,978,67,m,Total!!Two or More Races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,4,Own
+978,979,72,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+979,980,29,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+980,981,54,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+981,982,0,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+982,983,29,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+983,984,52,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+984,985,53,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+985,986,20,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+986,987,7,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+987,988,57,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+988,989,19,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+989,990,57,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,1,Own
+990,991,65,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+991,992,33,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+992,993,11,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+993,994,14,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+994,995,29,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+995,996,61,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+996,997,74,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+997,998,62,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+998,999,53,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+999,1000,50,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+1000,1001,77,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1001,1002,63,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1002,1003,81,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1003,1004,68,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1004,1005,50,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1005,1006,64,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1006,1007,48,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1007,1008,8,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1008,1009,55,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1009,1010,69,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1010,1011,23,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1011,1012,26,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+1012,1013,66,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1013,1014,43,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1014,1015,77,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1015,1016,74,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+1016,1017,58,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1017,1018,12,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1018,1019,68,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1019,1020,82,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+1020,1021,21,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1021,1022,36,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1022,1023,60,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1023,1024,22,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1024,1025,28,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1025,1026,6,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1026,1027,58,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1027,1028,25,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1028,1029,57,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1029,1030,45,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1030,1031,14,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+1031,1032,42,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1032,1033,69,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1033,1034,47,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1034,1035,15,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1035,1036,41,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1036,1037,6,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1037,1038,4,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1038,1039,50,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1039,1040,69,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1040,1041,58,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1041,1042,57,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1042,1043,40,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1043,1044,16,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1044,1045,1,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1045,1046,29,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+1046,1047,81,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1047,1048,5,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,3,Rent
+1048,1049,18,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1049,1050,5,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1050,1051,27,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1051,1052,45,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,3,Rent
+1052,1053,0,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1053,1054,77,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1054,1055,64,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1055,1056,50,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1056,1057,85,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1057,1058,53,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1058,1059,51,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1059,1060,39,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1060,1061,29,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1061,1062,58,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1062,1063,51,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1063,1064,60,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1064,1065,89,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1065,1066,34,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1066,1067,13,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,3,Rent
+1067,1068,61,f,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1068,1069,7,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1069,1070,68,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1070,1071,15,m,Total!!Two or More Races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1071,1072,0,m,Total!!Two or More Races!!Population of two races!!Asian; Some Other Race,0,4,Own
+1072,1073,65,f,Total!!Two or More Races!!Population of two races!!Asian; Some Other Race,0,4,Own
+1073,1074,48,m,Total!!Two or More Races!!Population of two races!!Asian; Some Other Race,0,4,Own
+1074,1075,19,m,Total!!Two or More Races!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Own
+1075,1076,81,f,Total!!Two or More Races!!Population of three races!!White; American Indian and Alaska Native; Asian,0,2,Rent
+1076,1077,33,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1077,1078,25,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,3,Rent
+1078,1079,20,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1079,1080,44,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1080,1081,1,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1081,1082,43,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1082,1083,18,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1083,1084,40,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,3,Rent
+1084,1085,14,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1085,1086,45,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1086,1087,54,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1087,1088,19,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1088,1089,42,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1089,1090,4,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1090,1091,37,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1091,1092,37,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1092,1093,16,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1093,1094,43,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1094,1095,30,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1095,1096,14,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1096,1097,20,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1097,1098,37,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1098,1099,19,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1099,1100,17,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1100,1101,20,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+1101,1102,64,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1102,1103,75,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1103,1104,34,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+1104,1105,28,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1105,1106,56,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,1,Own
+1106,1107,45,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+1107,1108,82,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1108,1109,21,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1109,1110,30,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1110,1111,34,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1111,1112,51,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1112,1113,20,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1113,1114,63,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1114,1115,69,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1115,1116,50,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1116,1117,0,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1117,1118,65,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1118,1119,38,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1119,1120,6,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1120,1121,48,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1121,1122,31,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1122,1123,70,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1123,1124,58,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+1124,1125,14,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1125,1126,54,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1126,1127,26,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1127,1128,65,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1128,1129,15,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1129,1130,6,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1130,1131,3,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1131,1132,58,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1132,1133,20,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1133,1134,85,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,1,Rent
+1134,1135,56,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1135,1136,47,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1136,1137,45,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1137,1138,24,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1138,1139,20,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1139,1140,36,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1140,1141,15,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1141,1142,10,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1142,1143,28,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,1,Rent
+1143,1144,15,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1144,1145,65,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1145,1146,22,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1146,1147,45,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1147,1148,68,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1148,1149,5,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1149,1150,27,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1150,1151,69,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1151,1152,24,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Rent
+1152,1153,43,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+1153,1154,88,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1154,1155,2,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1155,1156,68,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1156,1157,53,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1157,1158,16,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1158,1159,64,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+1159,1160,9,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1160,1161,56,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1161,1162,56,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1162,1163,81,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1163,1164,8,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+1164,1165,29,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1165,1166,16,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1166,1167,56,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1167,1168,81,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1168,1169,87,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1169,1170,72,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1170,1171,43,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1171,1172,52,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+1172,1173,7,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1173,1174,33,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1174,1175,61,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1175,1176,4,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,3,Own
+1176,1177,47,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1177,1178,54,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1178,1179,23,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1179,1180,24,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1180,1181,19,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1181,1182,16,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1182,1183,10,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1183,1184,14,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1184,1185,66,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1185,1186,30,f,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1186,1187,28,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1187,1188,40,m,Total!!Two or More Races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1188,1189,51,m,Total!!Two or More Races!!Population of three races!!White; Asian; Some Other Race,0,2,Rent
+1189,1190,69,f,Total!!Two or More Races!!Population of three races!!White; Asian; Some Other Race,0,2,Own
+1190,1191,16,m,Total!!Two or More Races!!Population of three races!!White; Asian; Some Other Race,0,3,Own
+1191,1192,14,m,Total!!Two or More Races!!Population of three races!!White; Asian; Some Other Race,0,2,Own
+1192,1193,9,m,Total!!Two or More Races!!Population of three races!!White; Asian; Some Other Race,0,4,Rent
+1193,1194,81,m,Total!!Two or More Races!!Population of three races!!White; Asian; Some Other Race,0,4,Rent
+1194,1195,3,m,Total!!Two or More Races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Own
+1195,1196,36,f,Total!!Two or More Races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,3,Own
+1196,1197,36,f,Total!!Two or More Races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,1,2,Own
+1197,1198,26,f,Total!!Two or More Races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Rent
+1198,1199,6,f,Total!!Two or More Races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,Own
+1199,1200,0,f,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1200,1201,9,m,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+1201,1202,50,f,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1202,1203,0,m,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1203,1204,68,m,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1204,1205,54,f,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1205,1206,62,m,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1206,1207,40,m,Total!!Two or More Races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,1,2,Own
+1207,1208,40,m,Total!!Two or More Races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Rent
+1208,1209,61,f,Total!!Two or More Races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Rent
+1209,1210,62,f,Total!!Two or More Races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Rent
+1210,1211,29,f,Total!!Two or More Races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,Own
+1211,1212,33,m,Total!!Two or More Races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,3,Own
+1212,1213,53,m,Total!!Two or More Races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,Own
+1213,1214,2,m,Total!!Two or More Races!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1214,1215,61,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1215,1216,28,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1216,1217,4,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1217,1218,66,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1218,1219,51,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1219,1220,9,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1220,1221,28,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1221,1222,71,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,1,Own
+1222,1223,3,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1223,1224,14,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1224,1225,38,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1225,1226,10,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,1,4,Rent
+1226,1227,75,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1227,1228,31,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1228,1229,27,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1229,1230,56,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1230,1231,22,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1231,1232,50,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1232,1233,14,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1233,1234,64,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Own
+1234,1235,60,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1235,1236,22,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1236,1237,58,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1237,1238,4,f,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own
+1238,1239,60,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,3,Rent
+1239,1240,47,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1240,1241,29,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1241,1242,21,m,Total!!Two or More Races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,1,Rent
+1242,1243,16,m,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,Own
+1243,1244,4,m,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Own
+1244,1245,13,m,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,1,2,Own
+1245,1246,65,f,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Own
+1246,1247,14,f,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Rent
+1247,1248,20,f,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,Rent
+1248,1249,0,m,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Own
+1249,1250,71,m,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,1,1,Own
+1250,1251,41,f,Total!!Two or More Races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,Own
+1251,1252,57,f,Total!!Two or More Races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,1,4,Own
+1252,1253,3,f,Total!!Two or More Races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1253,1254,45,f,Total!!Two or More Races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Own
+1254,1255,21,m,Total!!Two or More Races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Rent
+1255,1256,64,m,Total!!Two or More Races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,1,1,Own
+1256,1257,27,m,Total!!Two or More Races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,Rent
+1257,1258,13,m,Total!!Two or More Races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,Own

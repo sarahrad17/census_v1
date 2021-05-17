@@ -1,0 +1,58 @@
+all data based upon ACS 2019 reported values:
+
+ALAMEDA COUNTY: 
+age & sex: https://data.census.gov/cedsci/table?q=alameda%20county&tid=ACSST1Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=alameda%20county%20race&tid=ACSDT1Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=ACSST1Y2019.S2501-2021-04-27T164243&tid=ACSST1Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=%20alameda%20county%20housing&tid=ACSDP1Y2019.DP04&hidePreview=true
+
+
+ARMSTRONG COUNTY:
+age & sex: https://data.census.gov/cedsci/table?q=armstrong%20county%20age&tid=ACSST1Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=armstrong%20county%20race&tid=ACSDT5Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=armstrong%20county%20occupancy&tid=ACSST5Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=armstrong%20county%20tenure&tid=ACSDP5Y2019.DP04&hidePreview=true
+
+CIBOLA COUNTY:
+age & sex: https://data.census.gov/cedsci/table?q=cibola%20county%20age&tid=ACSST5Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=cibola%20county%20race&tid=ACSDT5Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=cibola%20county%20occupancy&tid=ACSST5Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=cibola%20county%20tenure&tid=ACSDP5Y2019.DP04&hidePreview=true
+
+FAYETTE COUNTY:
+age & sex: https://data.census.gov/cedsci/table?q=fayette%20county%20age&tid=ACSST1Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=fayette%20county%20race&tid=ACSDP1Y2019.DP05&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=fayette%20county%20occupancy&tid=ACSST1Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=fayette%20county%20tenure&tid=ACSDP1Y2019.DP04&hidePreview=true
+
+GRANDFORKS:
+age & sex: https://data.census.gov/cedsci/table?q=grand%20forks%20county%20&tid=ACSST1Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=grand%20forks%20county%20race&tid=ACSDT1Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=grand%20forks%20county%20occupancy&tid=ACSST1Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=grand%20forks%20county%20tenure&tid=ACSDP1Y2019.DP04&hidePreview=true
+
+
+HAWAII COUNTY:
+age & sex: https://data.census.gov/cedsci/table?q=hawaii%20county%20age&tid=ACSST1Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=hawaii%20county%20race&tid=ACSDT1Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=occupancy%20hawaii%20county&tid=ACSST1Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=hawaii%20county%20tenure&tid=ACSDP1Y2019.DP04&hidePreview=true
+
+JEFFERSON:
+age & sex: https://data.census.gov/cedsci/table?q=jefferson%20county%20age&tid=ACSST1Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=jefferson%20county%20race&tid=ACSDT1Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=jefferson%20county%20occupancy&tid=ACSST1Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=jefferson%20county%20tenure&tid=ACSDP1Y2019.DP04&hidePreview=true
+
+NANTUCKET:
+age & sex: https://data.census.gov/cedsci/table?q=nantucket%20county%20age&tid=ACSST5Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=nantucket%20county%20race&tid=ACSDT5Y2019.B02001&hidePreview=false
+household size: https://data.census.gov/cedsci/table?q=nantucket%20county%20occupancy&tid=ACSST5Y2019.S2501&hidePreview=true
+household tenure: https://data.census.gov/cedsci/table?q=nantucket%20county%20tenure&tid=ACSDP5Y2019.DP04&hidePreview=true
+
+WASHINGTON:
+age & sex: https://data.census.gov/cedsci/table?q=washington%20county%20age&tid=ACSST5Y2019.S0101&hidePreview=true
+race: https://data.census.gov/cedsci/table?q=washington%20county%20race&tid=ACSDT5Y2019.B02001&hidePreview=true
+household size: https://data.census.gov/cedsci/table?q=washington%20county%20occupancy&tid=ACSST5Y2019.S2501&hidePreview=false
+household tenure: https://data.census.gov/cedsci/table?q=washington%20county%20tenure&tid=ACSDP5Y2019.DP04&hidePreview=false
+

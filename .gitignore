@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#my stuff
+
+dp/dp_runs/*
+dp/dp_runs1/*
+dp/dp_runs2/*
+dp/dp_runs3/*
+dp/dp_runs_old/*
+swapping/swap_runs/*
+swapping/swap_runs1/*
+swapping/swap_runs2/*
+swapping/swap_runs3/*
+swapping/swap_runs_old/*

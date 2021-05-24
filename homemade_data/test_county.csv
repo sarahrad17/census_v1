@@ -1,10 +1,10 @@
 ,id,age,sex,race,hispanic,household_size,household_tenure
-0,1,32,f,Total!!Population of one race!!White alone,0,4,Rent
-1,2,20,f,Total!!Two or More Races!!Population of four races!!White; Black or African American; Asian; Some Other Race,1,4,Rent
-2,3,32,f,Total!!Population of one race!!White alone,0,4,Rent
-3,4,32,f,Total!!Population of one race!!White alone,0,4,Rent
-4,5,32,f,Total!!Population of one race!!White alone,0,4,Rent
-5,6,32,f,Total!!Population of one race!!White alone,0,4,Rent
-6,7,32,f,Total!!Population of one race!!White alone,0,4,Rent
-7,8,32,f,Total!!Population of one race!!White alone,0,4,Rent
-8,9,32,f,Total!!Population of one race!!White alone,0,4,Rent
+0,1,1,f,Total!!Population of one race!!White alone,0,4,Rent
+1,2,2,f,Total!!Two or More Races!!Population of four races!!White; Black or African American; Asian; Some Other Race,1,4,Rent
+2,3,3,f,Total!!Population of one race!!White alone,0,4,Rent
+3,4,4,f,Total!!Population of one race!!White alone,0,4,Rent
+4,5,5,f,Total!!Population of one race!!White alone,0,4,Rent
+5,6,6,f,Total!!Population of one race!!White alone,0,4,Rent
+6,7,7,f,Total!!Population of one race!!White alone,0,4,Rent
+7,8,8,f,Total!!Population of one race!!White alone,0,4,Rent
+8,9,9,f,Total!!Population of one race!!White alone,0,4,Rent
